@@ -1,0 +1,501 @@
+part_number,brand,description,device_type,system,price_oem,in_stock,supplier,condition,base_price_raw
+PRT_AUT_POW_0001,BorgWarner,High-Voltage Inverter Plate,Automotive,Power Train,5188.93,True,AutoZone Commercial,Certified Pre-Owned,6200
+PRT_AUT_POW_0002,Hitachi,High-Voltage Inverter Plate,Automotive,Power Train,5805.78,True,O'Reilly Auto Parts,New,5800
+PRT_AUT_POW_0003,Bosch,High-Voltage Inverter Plate,Automotive,Power Train,5754.7,True,Advance Auto Parts,New,5650
+PRT_AUT_POW_0004,Magna,Rear Axle Drive Module,Automotive,Power Train,6930.12,True,NAPA Auto Parts,Certified Pre-Owned,8500
+PRT_AUT_POW_0005,Dana,Rear Axle Drive Module,Automotive,Power Train,7068.26,True,Advance Auto Parts,New,7200
+PRT_AUT_POW_0006,ZF,Rear Axle Drive Module,Automotive,Power Train,6893.31,True,NAPA Auto Parts,Never Used (Old Stock),7800
+PRT_AUT_POW_0007,Aisin,PDK Transmission Clutch Pack,Automotive,Power Train,3233.65,True,NAPA Auto Parts,New,3200
+PRT_AUT_POW_0008,ZF,PDK Transmission Clutch Pack,Automotive,Power Train,2440.52,True,O'Reilly Auto Parts,Certified Pre-Owned,2950
+PRT_AUT_POW_0009,Valeo,PDK Transmission Clutch Pack,Automotive,Power Train,2856.99,True,AutoZone Commercial,New,2800
+PRT_AUT_CHA_0001,Brembo,Ceramic Composite Brake Pad Set,Automotive,Chassis,1227.18,True,AutoZone Commercial,New,1250
+PRT_AUT_CHA_0002,Akebono,Ceramic Composite Brake Pad Set,Automotive,Chassis,637.51,True,Advance Auto Parts,Refurbished,950
+PRT_AUT_CHA_0003,Ferodo,Ceramic Composite Brake Pad Set,Automotive,Chassis,1074.77,False,Advance Auto Parts,New,1100
+PRT_AUT_CHA_0004,Continental,Active Air Suspension Strut,Automotive,Chassis,2739.7,True,NAPA Auto Parts,New,2800
+PRT_AUT_CHA_0005,Bilstein,Active Air Suspension Strut,Automotive,Chassis,1887.47,True,Advance Auto Parts,Never Used (Old Stock),2100
+PRT_AUT_CHA_0006,Sachs,Active Air Suspension Strut,Automotive,Chassis,2355.38,False,O'Reilly Auto Parts,New,2300
+PRT_AUT_CHA_0007,Brembo,6-Piston Aluminum Caliper,Automotive,Chassis,1281.28,True,O'Reilly Auto Parts,Refurbished,1850
+PRT_AUT_CHA_0008,Wilwood,6-Piston Aluminum Caliper,Automotive,Chassis,1689.47,True,Advance Auto Parts,New,1650
+PRT_AUT_CHA_0009,AP Racing,6-Piston Aluminum Caliper,Automotive,Chassis,1330.0,False,Advance Auto Parts,Refurbished,1980
+PRT_AUT_CHA_0010,Michelin,Sport Tire Set (Performance Spec),Automotive,Chassis,438.95,True,O'Reilly Auto Parts,New,450
+PRT_AUT_CHA_0011,Pirelli,Sport Tire Set (Performance Spec),Automotive,Chassis,335.08,True,NAPA Auto Parts,Certified Pre-Owned,420
+PRT_AUT_CHA_0012,Continental,Sport Tire Set (Performance Spec),Automotive,Chassis,404.25,True,Advance Auto Parts,New,410
+PRT_AUT_THE_0001,Mahle,High-Voltage Coolant Heater,Automotive,Thermal,1546.42,True,NAPA Auto Parts,Certified Pre-Owned,1850
+PRT_AUT_THE_0002,Denso,High-Voltage Coolant Heater,Automotive,Thermal,1159.78,False,AutoZone Commercial,Certified Pre-Owned,1450
+PRT_AUT_THE_0003,Modine,High-Voltage Coolant Heater,Automotive,Thermal,1347.29,True,NAPA Auto Parts,New,1380
+PRT_AUT_THE_0004,Bosch,Thermal Management Module,Automotive,Thermal,1223.28,True,O'Reilly Auto Parts,New,1200
+PRT_AUT_THE_0005,Valeo,Thermal Management Module,Automotive,Thermal,588.12,False,NAPA Auto Parts,Used,1100
+PRT_AUT_THE_0006,Mahle,Thermal Management Module,Automotive,Thermal,727.02,True,NAPA Auto Parts,Refurbished,1050
+PRT_AUT_CHA_0013,Eaton,7.2kW On-Board Charger,Automotive,Charging,2316.54,True,Advance Auto Parts,New,2250
+PRT_AUT_CHA_0014,Delta,7.2kW On-Board Charger,Automotive,Charging,1559.16,True,O'Reilly Auto Parts,Certified Pre-Owned,1950
+PRT_AUT_CHA_0015,Rectifier EV,7.2kW On-Board Charger,Automotive,Charging,1192.37,True,AutoZone Commercial,Refurbished,1800
+PRT_AUT_CHA_0016,Bosch,DC Fast Charge Port Assembly,Automotive,Charging,825.08,True,O'Reilly Auto Parts,New,850
+PRT_AUT_CHA_0017,TE Connectivity,DC Fast Charge Port Assembly,Automotive,Charging,631.54,False,AutoZone Commercial,Certified Pre-Owned,780
+PRT_AUT_CHA_0018,Amphenol,DC Fast Charge Port Assembly,Automotive,Charging,821.47,True,AutoZone Commercial,New,820
+PRT_AUT_ENG_0001,Bosch,High-Precision Ignition Coil (M4),Automotive,Engine,100.24,True,AutoZone Commercial,Certified Pre-Owned,125
+PRT_AUT_ENG_0002,NGK,High-Precision Ignition Coil (M4),Automotive,Engine,79.88,True,O'Reilly Auto Parts,Refurbished,115
+PRT_AUT_ENG_0003,Delphi,High-Precision Ignition Coil (M4),Automotive,Engine,81.23,True,NAPA Auto Parts,Refurbished,118
+PRT_AUT_ENG_0004,Bosch,Silver-Electrode Spark Plug (BMW),Automotive,Engine,39.36,True,O'Reilly Auto Parts,Never Used (Old Stock),45
+PRT_AUT_ENG_0005,NGK,Silver-Electrode Spark Plug (BMW),Automotive,Engine,30.88,True,O'Reilly Auto Parts,Certified Pre-Owned,38
+PRT_AUT_ENG_0006,Denso,Silver-Electrode Spark Plug (BMW),Automotive,Engine,23.42,True,Advance Auto Parts,Used,42
+PRT_AUT_ENG_0007,Denso,Direct Fuel Injector (ICE),Automotive,Engine,342.78,True,O'Reilly Auto Parts,New,350
+PRT_AUT_ENG_0008,Bosch,Direct Fuel Injector (ICE),Automotive,Engine,335.0,True,O'Reilly Auto Parts,New,340
+PRT_AUT_ENG_0009,Delphi,Direct Fuel Injector (ICE),Automotive,Engine,303.53,True,AutoZone Commercial,Never Used (Old Stock),330
+PRT_AUT_ENG_0010,Bosch,Turbo-Charged Intake Valve,Automotive,Engine,1278.92,True,Advance Auto Parts,New,1250
+PRT_AUT_ENG_0011,Valeo,Turbo-Charged Intake Valve,Automotive,Engine,977.29,True,NAPA Auto Parts,Never Used (Old Stock),1100
+PRT_AUT_ENG_0012,Gates,Turbo-Charged Intake Valve,Automotive,Engine,961.38,False,O'Reilly Auto Parts,Certified Pre-Owned,1150
+PRT_AUT_COO_0001,Continental,Coolant Control Valve,Automotive,Cooling,850.89,True,O'Reilly Auto Parts,New,850
+PRT_AUT_COO_0002,Gates,Coolant Control Valve,Automotive,Cooling,801.11,True,O'Reilly Auto Parts,New,780
+PRT_AUT_COO_0003,Dorman,Coolant Control Valve,Automotive,Cooling,589.14,True,AutoZone Commercial,Certified Pre-Owned,720
+PRT_AUT_COO_0004,Bosch,OEM Precision Thermostat,Automotive,Cooling,414.72,True,AutoZone Commercial,New,420
+PRT_AUT_COO_0005,Gates,OEM Precision Thermostat,Automotive,Cooling,329.25,False,Advance Auto Parts,Certified Pre-Owned,395
+PRT_AUT_COO_0006,Wahler,OEM Precision Thermostat,Automotive,Cooling,380.46,True,NAPA Auto Parts,New,380
+PRT_AUT_COO_0007,Mishimoto,Performance Radiator Core,Automotive,Cooling,530.65,True,Advance Auto Parts,Certified Pre-Owned,650
+PRT_AUT_COO_0008,Koyo,Performance Radiator Core,Automotive,Cooling,341.1,True,O'Reilly Auto Parts,Used,620
+PRT_AUT_COO_0009,CSF,Performance Radiator Core,Automotive,Cooling,496.22,True,AutoZone Commercial,Certified Pre-Owned,590
+PRT_AUT_TRA_0001,Aisin,Direct-Shift Transmission Unit,Automotive,Transmission,2451.97,False,NAPA Auto Parts,New,2400
+PRT_AUT_TRA_0002,ZF,Direct-Shift Transmission Unit,Automotive,Transmission,2249.69,False,Advance Auto Parts,New,2250
+PRT_AUT_TRA_0003,Jatco,Direct-Shift Transmission Unit,Automotive,Transmission,1189.39,True,O'Reilly Auto Parts,Used,2100
+PRT_AUT_TRA_0004,Valeo,Torque Converter Assembly,Automotive,Transmission,993.82,True,NAPA Auto Parts,Certified Pre-Owned,1200
+PRT_AUT_TRA_0005,Exedy,Torque Converter Assembly,Automotive,Transmission,1148.63,True,AutoZone Commercial,New,1150
+PRT_AUT_TRA_0006,Schaeffler,Torque Converter Assembly,Automotive,Transmission,870.88,True,O'Reilly Auto Parts,Refurbished,1250
+PRT_AUT_BRA_0001,Bosch,ABS Wheel Speed Sensor,Automotive,Brakes,272.23,True,Advance Auto Parts,New,280
+PRT_AUT_BRA_0002,Delphi,ABS Wheel Speed Sensor,Automotive,Brakes,247.51,True,NAPA Auto Parts,New,255
+PRT_AUT_BRA_0003,Meyle,ABS Wheel Speed Sensor,Automotive,Brakes,163.06,True,NAPA Auto Parts,Refurbished,240
+PRT_AUT_BRA_0004,ATE,Brake Master Cylinder,Automotive,Brakes,349.92,True,O'Reilly Auto Parts,Never Used (Old Stock),380
+PRT_AUT_BRA_0005,TRW,Brake Master Cylinder,Automotive,Brakes,348.64,True,Advance Auto Parts,New,350
+PRT_AUT_BRA_0006,Ate-Teves,Brake Master Cylinder,Automotive,Brakes,307.99,False,AutoZone Commercial,Certified Pre-Owned,370
+PRT_AUT_SAF_0001,Autoliv,SRS Airbag Module,Automotive,Safety,1870.25,True,Advance Auto Parts,New,1850
+PRT_AUT_SAF_0002,TRW,SRS Airbag Module,Automotive,Safety,1419.88,False,O'Reilly Auto Parts,Certified Pre-Owned,1750
+PRT_AUT_SAF_0003,ZF,SRS Airbag Module,Automotive,Safety,1848.76,True,NAPA Auto Parts,New,1800
+PRT_AUT_SAF_0004,Autoliv,Seatbelt Pre-Tensioner,Automotive,Safety,350.15,False,Advance Auto Parts,Certified Pre-Owned,420
+PRT_AUT_SAF_0005,TRW,Seatbelt Pre-Tensioner,Automotive,Safety,272.1,True,Advance Auto Parts,Refurbished,395
+PRT_AUT_SAF_0006,Takata,Seatbelt Pre-Tensioner,Automotive,Safety,375.9,True,O'Reilly Auto Parts,New,380
+PRT_AUT_FUE_0001,Bosch,Fuel System Pressure Sensor,Automotive,Fuel System,377.61,True,NAPA Auto Parts,Never Used (Old Stock),420
+PRT_AUT_FUE_0002,Delphi,Fuel System Pressure Sensor,Automotive,Fuel System,340.61,True,NAPA Auto Parts,Never Used (Old Stock),380
+PRT_AUT_FUE_0003,Siemens VDO,Fuel System Pressure Sensor,Automotive,Fuel System,393.06,True,O'Reilly Auto Parts,New,395
+PRT_AUT_FUE_0004,Delphi,High-Pressure Fuel Pump (EV),Automotive,Fuel System,941.06,True,O'Reilly Auto Parts,New,950
+PRT_AUT_FUE_0005,Bosch,High-Pressure Fuel Pump (EV),Automotive,Fuel System,598.91,False,NAPA Auto Parts,Refurbished,880
+PRT_AUT_FUE_0006,Denso,High-Pressure Fuel Pump (EV),Automotive,Fuel System,704.77,False,NAPA Auto Parts,Certified Pre-Owned,860
+PRT_AUT_EXH_0001,Walker,Catalytic Converter (OEM Spec),Automotive,Exhaust,2189.43,True,AutoZone Commercial,New,2200
+PRT_AUT_EXH_0002,Magneti-Marelli,Catalytic Converter (OEM Spec),Automotive,Exhaust,1952.17,True,O'Reilly Auto Parts,New,1950
+PRT_AUT_EXH_0003,Eastern,Catalytic Converter (OEM Spec),Automotive,Exhaust,1759.45,False,O'Reilly Auto Parts,New,1800
+PRT_AUT_EXH_0004,Bosch,Lambda / O2 Sensor,Automotive,Exhaust,95.47,True,NAPA Auto Parts,New,95
+PRT_AUT_EXH_0005,Denso,Lambda / O2 Sensor,Automotive,Exhaust,87.48,True,Advance Auto Parts,New,88
+PRT_AUT_EXH_0006,NGK,Lambda / O2 Sensor,Automotive,Exhaust,92.11,True,Advance Auto Parts,New,92
+PRT_AUT_COM_0001,Aptiv,Central Gateway (High-Voltage),Automotive,Communication,958.49,True,O'Reilly Auto Parts,Refurbished,1450
+PRT_AUT_COM_0002,Continental,Central Gateway (High-Voltage),Automotive,Communication,926.51,True,AutoZone Commercial,New,950
+PRT_AUT_COM_0003,Bosch,Central Gateway (High-Voltage),Automotive,Communication,975.01,True,O'Reilly Auto Parts,New,980
+PRT_AUT_THR_0001,Bosch,Electronic Throttle Body,Automotive,Throttle,210.42,True,NAPA Auto Parts,Used,380
+PRT_AUT_THR_0002,Denso,Electronic Throttle Body,Automotive,Throttle,362.23,False,NAPA Auto Parts,New,360
+PRT_AUT_THR_0003,Siemens VDO,Electronic Throttle Body,Automotive,Throttle,369.18,True,AutoZone Commercial,New,370
+PRT_AUT_EMI_0001,Bosch,EVAP Canister Purge Valve,Automotive,Emissions,184.62,True,O'Reilly Auto Parts,New,180
+PRT_AUT_EMI_0002,ACDelco,EVAP Canister Purge Valve,Automotive,Emissions,110.49,False,AutoZone Commercial,Refurbished,160
+PRT_AUT_EMI_0003,Delphi,EVAP Canister Purge Valve,Automotive,Emissions,167.43,True,AutoZone Commercial,New,170
+PRT_AUT_IGN_0001,Bosch,Camshaft Position Sensor,Automotive,Ignition,321.63,False,Advance Auto Parts,New,320
+PRT_AUT_IGN_0002,Delphi,Camshaft Position Sensor,Automotive,Ignition,196.15,True,O'Reilly Auto Parts,Refurbished,295
+PRT_AUT_IGN_0003,Standard Motor,Camshaft Position Sensor,Automotive,Ignition,301.48,False,NAPA Auto Parts,New,305
+PRT_MOB_DIS_0001,Samsung Display,LTPO Pro-Grade OLED Panel,Mobile,Display,445.64,True,Digi-Key Electronics,New,450
+PRT_MOB_DIS_0002,LG Display,LTPO Pro-Grade OLED Panel,Mobile,Display,423.83,True,iFixit Pro,New,420
+PRT_MOB_DIS_0003,BOE,LTPO Pro-Grade OLED Panel,Mobile,Display,268.91,False,iFixit Pro,Refurbished,395
+PRT_MOB_DIS_0004,Apple Certified,Retina XDR Display Assembly,Mobile,Display,401.3,True,iFixit Pro,Certified Pre-Owned,480
+PRT_MOB_DIS_0005,JDI,Retina XDR Display Assembly,Mobile,Display,293.26,False,Mouser Electronics,Refurbished,440
+PRT_MOB_DIS_0006,Sharp,Retina XDR Display Assembly,Mobile,Display,373.63,True,iFixit Pro,Certified Pre-Owned,450
+PRT_MOB_BAT_0001,Samsung SDI,5000mAh High-Density Battery,Mobile,Battery,92.41,True,Digi-Key Electronics,New,95
+PRT_MOB_BAT_0002,ATL,5000mAh High-Density Battery,Mobile,Battery,78.58,True,Digi-Key Electronics,Never Used (Old Stock),88
+PRT_MOB_BAT_0003,CATL,5000mAh High-Density Battery,Mobile,Battery,91.84,False,Digi-Key Electronics,New,92
+PRT_MOB_BAT_0004,Apple Certified,Smart Battery Case Module,Mobile,Battery,96.24,True,Digi-Key Electronics,Never Used (Old Stock),110
+PRT_MOB_BAT_0005,Desay,Smart Battery Case Module,Mobile,Battery,86.36,False,iFixit Pro,Never Used (Old Stock),98
+PRT_MOB_BAT_0006,Sunwoda,Smart Battery Case Module,Mobile,Battery,51.26,False,iFixit Pro,Used,95
+PRT_MOB_BAT_0007,Murata,3700mAh Flagship Battery Cell,Mobile,Battery,70.12,True,iFixit Pro,Certified Pre-Owned,85
+PRT_MOB_BAT_0008,TDK,3700mAh Flagship Battery Cell,Mobile,Battery,65.49,False,Digi-Key Electronics,Certified Pre-Owned,80
+PRT_MOB_BAT_0009,Panasonic,3700mAh Flagship Battery Cell,Mobile,Battery,80.98,True,MobileSentrix,Never Used (Old Stock),88
+PRT_MOB_PRO_0001,Qualcomm,Snapdragon 8 Gen 3 Logic Board,Mobile,Processor,673.25,False,Digi-Key Electronics,New,680
+PRT_MOB_PRO_0002,TSMC OEM,Snapdragon 8 Gen 3 Logic Board,Mobile,Processor,443.77,True,MobileSentrix,Refurbished,650
+PRT_MOB_PRO_0003,Samsung Fab,Snapdragon 8 Gen 3 Logic Board,Mobile,Processor,432.0,True,Digi-Key Electronics,Refurbished,640
+PRT_MOB_PRO_0004,Apple Certified,A17 Pro Bionic Logic Board,Mobile,Processor,719.74,True,Digi-Key Electronics,New,720
+PRT_MOB_PRO_0005,TSMC OEM,A17 Pro Bionic Logic Board,Mobile,Processor,685.17,True,iFixit Pro,New,695
+PRT_MOB_PRO_0006,Foxconn,A17 Pro Bionic Logic Board,Mobile,Processor,555.38,True,iFixit Pro,Certified Pre-Owned,680
+PRT_MOB_CAM_0001,Sony,48MP Camera Sensor Module,Mobile,Camera,212.54,True,iFixit Pro,Refurbished,320
+PRT_MOB_CAM_0002,OmniVision,48MP Camera Sensor Module,Mobile,Camera,295.39,False,MobileSentrix,New,295
+PRT_MOB_CAM_0003,Samsung LSI,48MP Camera Sensor Module,Mobile,Camera,209.1,False,iFixit Pro,Refurbished,305
+PRT_MOB_CAM_0004,Samsung,Periscope Telephoto Module,Mobile,Camera,311.81,False,Mouser Electronics,Certified Pre-Owned,380
+PRT_MOB_CAM_0005,LG Innotek,Periscope Telephoto Module,Mobile,Camera,359.52,True,iFixit Pro,New,360
+PRT_MOB_CAM_0006,Sunny Optical,Periscope Telephoto Module,Mobile,Camera,344.2,True,Digi-Key Electronics,New,340
+PRT_MOB_BIO_0001,Apple Certified,TrueDepth Camera Array,Mobile,Biometrics,488.66,True,Mouser Electronics,New,480
+PRT_MOB_BIO_0002,Sony,TrueDepth Camera Array,Mobile,Biometrics,246.02,False,iFixit Pro,Used,445
+PRT_MOB_BIO_0003,STMicro,TrueDepth Camera Array,Mobile,Biometrics,296.69,True,Digi-Key Electronics,Refurbished,430
+PRT_MOB_BIO_0004,Qualcomm,Under-Display Fingerprint Sensor,Mobile,Biometrics,224.22,True,Digi-Key Electronics,New,220
+PRT_MOB_BIO_0005,Goodix,Under-Display Fingerprint Sensor,Mobile,Biometrics,109.24,True,Mouser Electronics,Used,195
+PRT_MOB_BIO_0006,ISSI,Under-Display Fingerprint Sensor,Mobile,Biometrics,165.47,True,Mouser Electronics,Never Used (Old Stock),185
+PRT_MOB_CHA_0001,Apple Certified,USB-C Charging Port Assembly,Mobile,Charging,52.72,False,Digi-Key Electronics,Used,95
+PRT_MOB_CHA_0002,Foxconn,USB-C Charging Port Assembly,Mobile,Charging,72.41,True,iFixit Pro,Never Used (Old Stock),82
+PRT_MOB_CHA_0003,Amphenol,USB-C Charging Port Assembly,Mobile,Charging,73.98,True,iFixit Pro,Certified Pre-Owned,88
+PRT_MOB_CHA_0004,Apple Certified,MagSafe Wireless Coil Assembly,Mobile,Charging,98.14,True,MobileSentrix,Refurbished,145
+PRT_MOB_CHA_0005,TDK,MagSafe Wireless Coil Assembly,Mobile,Charging,86.36,False,iFixit Pro,Refurbished,128
+PRT_MOB_CHA_0006,Witricity,MagSafe Wireless Coil Assembly,Mobile,Charging,131.71,True,Mouser Electronics,New,135
+PRT_MOB_NET_0001,Qualcomm,Wi-Fi 7 Antenna Assembly,Mobile,Networking,132.37,True,Mouser Electronics,Refurbished,195
+PRT_MOB_NET_0002,Murata,Wi-Fi 7 Antenna Assembly,Mobile,Networking,160.19,False,Digi-Key Electronics,Never Used (Old Stock),178
+PRT_MOB_NET_0003,TDK,Wi-Fi 7 Antenna Assembly,Mobile,Networking,128.11,True,MobileSentrix,Refurbished,185
+PRT_MOB_NET_0004,Qualcomm,5G mmWave Antenna Kit,Mobile,Networking,280.22,True,Mouser Electronics,New,285
+PRT_MOB_NET_0005,Samsung LSI,5G mmWave Antenna Kit,Mobile,Networking,262.72,True,Mouser Electronics,New,265
+PRT_MOB_NET_0006,MediaTek,5G mmWave Antenna Kit,Mobile,Networking,177.69,True,Mouser Electronics,Refurbished,258
+PRT_MOB_AUD_0001,Apple Certified,Speaker Receiver Module,Mobile,Audio,146.81,True,Digi-Key Electronics,New,145
+PRT_MOB_AUD_0002,GoerTek,Speaker Receiver Module,Mobile,Audio,102.05,True,MobileSentrix,Certified Pre-Owned,128
+PRT_MOB_AUD_0003,AAC Tech,Speaker Receiver Module,Mobile,Audio,130.72,False,Mouser Electronics,New,132
+PRT_MOB_AUD_0004,Apple Certified,Haptic Feedback Assembly,Mobile,Audio,85.16,True,MobileSentrix,Never Used (Old Stock),95
+PRT_MOB_AUD_0005,AAC Tech,Haptic Feedback Assembly,Mobile,Audio,82.74,True,Digi-Key Electronics,New,82
+PRT_MOB_AUD_0006,GoerTek,Haptic Feedback Assembly,Mobile,Audio,47.95,False,MobileSentrix,Used,88
+PRT_MOB_POW_0001,Texas Instruments,Power Management IC,Mobile,Power Management,391.05,True,Mouser Electronics,New,380
+PRT_MOB_POW_0002,Qualcomm,Power Management IC,Mobile,Power Management,310.45,True,Mouser Electronics,Never Used (Old Stock),355
+PRT_MOB_POW_0003,MaxLinear,Power Management IC,Mobile,Power Management,279.98,True,Digi-Key Electronics,Certified Pre-Owned,340
+PRT_MOB_POW_0004,Texas Instruments,Voltage Regulator Module,Mobile,Power Management,201.93,True,iFixit Pro,Never Used (Old Stock),220
+PRT_MOB_POW_0005,Renesas,Voltage Regulator Module,Mobile,Power Management,203.31,True,Mouser Electronics,New,205
+PRT_MOB_POW_0006,Analog Devices,Voltage Regulator Module,Mobile,Power Management,218.74,True,Mouser Electronics,New,215
+PRT_IND_VFD_0001,Siemens,60Hz Active VFD Inverter,Industrial,VFD,9866.13,True,Motion Industries,Certified Pre-Owned,12240
+PRT_IND_VFD_0002,ABB,60Hz Active VFD Inverter,Industrial,VFD,9682.9,False,Fastenal,Certified Pre-Owned,11800
+PRT_IND_VFD_0003,Rockwell,60Hz Active VFD Inverter,Industrial,VFD,11937.7,False,Motion Industries,New,12000
+PRT_IND_VFD_0004,Siemens,VFD Thyristor Stack,Industrial,VFD,2388.21,True,Fastenal,New,2450
+PRT_IND_VFD_0005,ABB,VFD Thyristor Stack,Industrial,VFD,2345.79,True,Grainger Industrial Supply,New,2300
+PRT_IND_VFD_0006,Schneider,VFD Thyristor Stack,Industrial,VFD,1612.59,True,Fastenal,Refurbished,2380
+PRT_IND_VFD_0007,Siemens,VFD Control Card,Industrial,VFD,1794.76,False,Fastenal,New,1850
+PRT_IND_VFD_0008,ABB,VFD Control Card,Industrial,VFD,1414.57,True,Fastenal,Certified Pre-Owned,1750
+PRT_IND_VFD_0009,Fuji Electric,VFD Control Card,Industrial,VFD,1794.69,True,Fastenal,New,1800
+PRT_IND_DRI_0001,ABB,Precision Frequency Drive (High-Torque),Industrial,Drive,6784.88,False,Global Industrial,New,6850
+PRT_IND_DRI_0002,Siemens,Precision Frequency Drive (High-Torque),Industrial,Drive,5381.28,True,Motion Industries,Certified Pre-Owned,6500
+PRT_IND_DRI_0003,Danfoss,Precision Frequency Drive (High-Torque),Industrial,Drive,6126.35,True,Global Industrial,New,6200
+PRT_IND_DRI_0004,Siemens,Servo Drive Amplifier,Industrial,Drive,4140.79,True,Grainger Industrial Supply,New,4200
+PRT_IND_DRI_0005,Fanuc,Servo Drive Amplifier,Industrial,Drive,3706.65,True,Fastenal,Certified Pre-Owned,4500
+PRT_IND_DRI_0006,Mitsubishi,Servo Drive Amplifier,Industrial,Drive,4229.51,True,Global Industrial,New,4300
+PRT_IND_HYD_0001,Caterpillar,High-Pressure Hydraulic Pump,Industrial,Hydraulics,8524.03,True,Motion Industries,New,8500
+PRT_IND_HYD_0002,Parker,High-Pressure Hydraulic Pump,Industrial,Hydraulics,7827.94,True,Global Industrial,New,7800
+PRT_IND_HYD_0003,Bosch Rexroth,High-Pressure Hydraulic Pump,Industrial,Hydraulics,6825.28,True,Global Industrial,Certified Pre-Owned,8100
+PRT_IND_HYD_0004,Parker,Hydraulic Line Pressure Hose (HP),Industrial,Hydraulics,1282.54,True,Grainger Industrial Supply,New,1250
+PRT_IND_HYD_0005,Gates,Hydraulic Line Pressure Hose (HP),Industrial,Hydraulics,1126.16,False,Motion Industries,New,1150
+PRT_IND_HYD_0006,Eaton,Hydraulic Line Pressure Hose (HP),Industrial,Hydraulics,971.74,False,Global Industrial,Certified Pre-Owned,1200
+PRT_IND_HYD_0007,Bosch Rexroth,Hydraulic Accumulator,Industrial,Hydraulics,2007.38,True,Motion Industries,Never Used (Old Stock),2200
+PRT_IND_HYD_0008,Parker,Hydraulic Accumulator,Industrial,Hydraulics,1418.91,True,Fastenal,Refurbished,2050
+PRT_IND_HYD_0009,Hydac,Hydraulic Accumulator,Industrial,Hydraulics,2124.52,True,Grainger Industrial Supply,New,2150
+PRT_IND_CON_0001,Schneider,Digital Pressure Control Node,Industrial,Control,2684.31,True,Grainger Industrial Supply,Never Used (Old Stock),3025
+PRT_IND_CON_0002,Siemens,Digital Pressure Control Node,Industrial,Control,2026.54,True,Global Industrial,Refurbished,2900
+PRT_IND_CON_0003,Omron,Digital Pressure Control Node,Industrial,Control,2878.76,False,Motion Industries,New,2850
+PRT_IND_CON_0004,Rockwell,CompactLogix HMI Interface,Industrial,Control,2795.79,True,Motion Industries,Refurbished,4138
+PRT_IND_CON_0005,Siemens,CompactLogix HMI Interface,Industrial,Control,3849.57,True,Global Industrial,New,3950
+PRT_IND_CON_0006,Mitsubishi,CompactLogix HMI Interface,Industrial,Control,3693.05,True,Global Industrial,New,3800
+PRT_IND_CON_0007,Siemens,S7-1500 PLC CPU Module,Industrial,Control,1986.4,True,Motion Industries,Certified Pre-Owned,2450
+PRT_IND_CON_0008,Allen-Bradley,S7-1500 PLC CPU Module,Industrial,Control,2689.51,True,Grainger Industrial Supply,New,2650
+PRT_IND_CON_0009,Omron,S7-1500 PLC CPU Module,Industrial,Control,1571.6,True,Global Industrial,Refurbished,2350
+PRT_IND_BEA_0001,SKF,Precision Angular Contact Bearing,Industrial,Bearings,2867.83,True,Global Industrial,New,2850
+PRT_IND_BEA_0002,FAG,Precision Angular Contact Bearing,Industrial,Bearings,2688.61,True,Grainger Industrial Supply,New,2650
+PRT_IND_BEA_0003,NSK,Precision Angular Contact Bearing,Industrial,Bearings,1502.92,False,Grainger Industrial Supply,Used,2750
+PRT_IND_BEA_0004,SKF,Cylindrical Roller Bearing (Large),Industrial,Bearings,1551.88,True,Grainger Industrial Supply,Certified Pre-Owned,1850
+PRT_IND_BEA_0005,FAG,Cylindrical Roller Bearing (Large),Industrial,Bearings,1763.91,True,Motion Industries,New,1750
+PRT_IND_BEA_0006,Timken,Cylindrical Roller Bearing (Large),Industrial,Bearings,1007.46,True,Motion Industries,Used,1800
+PRT_IND_SEA_0001,Parker,High-Pressure Rotary Seal Kit,Industrial,Seals,831.4,True,Fastenal,Refurbished,1250
+PRT_IND_SEA_0002,Trelleborg,High-Pressure Rotary Seal Kit,Industrial,Seals,640.79,True,Motion Industries,Used,1150
+PRT_IND_SEA_0003,Freudenberg,High-Pressure Rotary Seal Kit,Industrial,Seals,802.76,True,Grainger Industrial Supply,Refurbished,1200
+PRT_IND_SEA_0004,Parker,Shaft Lip Seal Set,Industrial,Seals,226.68,True,Global Industrial,Certified Pre-Owned,280
+PRT_IND_SEA_0005,Trelleborg,Shaft Lip Seal Set,Industrial,Seals,265.54,True,Motion Industries,New,260
+PRT_IND_SEA_0006,NOK,Shaft Lip Seal Set,Industrial,Seals,221.13,False,Global Industrial,Certified Pre-Owned,270
+PRT_IND_COO_0001,Siemens,Industrial Cooling Pump (Heavy),Industrial,Cooling,1678.63,True,Motion Industries,Never Used (Old Stock),1850
+PRT_IND_COO_0002,Armstrong,Industrial Cooling Pump (Heavy),Industrial,Cooling,1718.45,True,Motion Industries,New,1700
+PRT_IND_COO_0003,Grundfos,Industrial Cooling Pump (Heavy),Industrial,Cooling,1184.55,False,Global Industrial,Refurbished,1780
+PRT_IND_COO_0004,Alfa Laval,Heat Exchanger Core Module,Industrial,Cooling,2113.85,True,Fastenal,Refurbished,3200
+PRT_IND_COO_0005,GEA,Heat Exchanger Core Module,Industrial,Cooling,2426.97,True,Grainger Industrial Supply,Certified Pre-Owned,3050
+PRT_IND_COO_0006,Kelvion,Heat Exchanger Core Module,Industrial,Cooling,3108.49,True,Grainger Industrial Supply,New,3100
+PRT_IND_ELE_0001,Siemens,Motor Overload Relay,Industrial,Electrical,3292.07,False,Global Industrial,New,3200
+PRT_IND_ELE_0002,ABB,Motor Overload Relay,Industrial,Electrical,2956.06,True,Global Industrial,New,2950
+PRT_IND_ELE_0003,Schneider,Motor Overload Relay,Industrial,Electrical,2540.79,True,Global Industrial,Certified Pre-Owned,3050
+PRT_IND_ELE_0004,ABB,High-Current Circuit Breaker,Industrial,Electrical,1900.44,True,Motion Industries,New,1850
+PRT_IND_ELE_0005,Siemens,High-Current Circuit Breaker,Industrial,Electrical,1825.53,True,Global Industrial,New,1780
+PRT_IND_ELE_0006,Schneider,High-Current Circuit Breaker,Industrial,Electrical,1844.55,True,Fastenal,New,1820
+PRT_IND_VIB_0001,Vibro-Meter,Vibration Transducer X-Axis,Industrial,Vibration,796.75,True,Motion Industries,Certified Pre-Owned,950
+PRT_IND_VIB_0002,Bruel and Kjaer,Vibration Transducer X-Axis,Industrial,Vibration,1066.75,True,Fastenal,New,1050
+PRT_IND_VIB_0003,PCB Piezotronics,Vibration Transducer X-Axis,Industrial,Vibration,794.19,False,Global Industrial,Certified Pre-Owned,980
+PRT_IND_VIB_0004,SKF,Continuous Online Vibration Monitor,Industrial,Vibration,2751.31,True,Global Industrial,New,2800
+PRT_IND_VIB_0005,Emerson,Continuous Online Vibration Monitor,Industrial,Vibration,1784.25,True,Fastenal,Refurbished,2650
+PRT_IND_VIB_0006,Fluke,Continuous Online Vibration Monitor,Industrial,Vibration,2762.79,False,Fastenal,New,2700
+PRT_IND_SEN_0001,IFM,Inductive Proximity Sensor,Industrial,Sensor,292.19,True,Motion Industries,Never Used (Old Stock),320
+PRT_IND_SEN_0002,Omron,Inductive Proximity Sensor,Industrial,Sensor,164.55,False,Motion Industries,Used,295
+PRT_IND_SEN_0003,Turck,Inductive Proximity Sensor,Industrial,Sensor,301.68,True,Fastenal,New,305
+PRT_IND_SEN_0004,HBM,Precision Multi-Axis Load Cell,Industrial,Sensor,2415.36,False,Global Industrial,New,2450
+PRT_IND_SEN_0005,Parker,Precision Multi-Axis Load Cell,Industrial,Sensor,2029.53,True,Grainger Industrial Supply,Never Used (Old Stock),2250
+PRT_IND_SEN_0006,Kistler,Precision Multi-Axis Load Cell,Industrial,Sensor,2299.39,True,Fastenal,New,2350
+PRT_IND_SEN_0007,Endress+Hauser,Ultrasonic Level Sensor,Industrial,Sensor,703.11,True,Motion Industries,Certified Pre-Owned,850
+PRT_IND_SEN_0008,VEGA,Ultrasonic Level Sensor,Industrial,Sensor,844.08,True,Fastenal,New,820
+PRT_IND_SEN_0009,Siemens,Ultrasonic Level Sensor,Industrial,Sensor,699.84,False,Grainger Industrial Supply,Never Used (Old Stock),800
+PRT_IND_GEA_0001,Bonfiglioli,Industrial Gearbox Assembly,Industrial,Gearbox,3937.96,True,Global Industrial,New,3850
+PRT_IND_GEA_0002,Flender,Industrial Gearbox Assembly,Industrial,Gearbox,3272.6,True,Global Industrial,Certified Pre-Owned,4100
+PRT_IND_GEA_0003,Sumitomo,Industrial Gearbox Assembly,Industrial,Gearbox,2635.63,False,Grainger Industrial Supply,Refurbished,3950
+PRT_IND_GEA_0004,Apex Dynamics,Planetary Reduction Gearhead,Industrial,Gearbox,2037.18,False,Grainger Industrial Supply,Never Used (Old Stock),2200
+PRT_IND_GEA_0005,Neugart,Planetary Reduction Gearhead,Industrial,Gearbox,1893.67,True,Fastenal,Certified Pre-Owned,2350
+PRT_IND_GEA_0006,Wittenstein,Planetary Reduction Gearhead,Industrial,Gearbox,1651.97,True,Global Industrial,Refurbished,2450
+PRT_IND_PNE_0001,Festo,Precision Pressure Regulator,Industrial,Pneumatics,469.54,False,Fastenal,Certified Pre-Owned,580
+PRT_IND_PNE_0002,SMC,Precision Pressure Regulator,Industrial,Pneumatics,548.91,True,Grainger Industrial Supply,New,550
+PRT_IND_PNE_0003,Parker,Precision Pressure Regulator,Industrial,Pneumatics,508.77,True,Grainger Industrial Supply,Never Used (Old Stock),565
+PRT_IND_PNE_0004,Festo,5/2 Solenoid Valve,Industrial,Pneumatics,264.2,False,Motion Industries,Certified Pre-Owned,320
+PRT_IND_PNE_0005,SMC,5/2 Solenoid Valve,Industrial,Pneumatics,197.0,False,Motion Industries,Refurbished,295
+PRT_IND_PNE_0006,Parker,5/2 Solenoid Valve,Industrial,Pneumatics,248.69,True,Grainger Industrial Supply,Certified Pre-Owned,310
+PRT_APP_MOT_0001,Whirlpool,Direct-Drive Induction Motor,Appliance,Motor,569.72,False,AppliancePartsPros,New,585
+PRT_APP_MOT_0002,LG,Direct-Drive Induction Motor,Appliance,Motor,451.52,True,Marcone Supply,Certified Pre-Owned,545
+PRT_APP_MOT_0003,Bosch,Direct-Drive Induction Motor,Appliance,Motor,451.02,True,Marcone Supply,Certified Pre-Owned,560
+PRT_APP_MOT_0004,Nidec,Brushless DC Circulator Motor,Appliance,Motor,387.62,True,Marcone Supply,New,380
+PRT_APP_MOT_0005,Regal Beloit,Brushless DC Circulator Motor,Appliance,Motor,369.67,True,RepairClinic,New,360
+PRT_APP_MOT_0006,ABB,Brushless DC Circulator Motor,Appliance,Motor,299.71,False,AppliancePartsPros,Certified Pre-Owned,370
+PRT_APP_HEA_0001,LG,Smart Inverter Control Board,Appliance,Heating,462.8,True,Sears PartsDirect,New,450
+PRT_APP_HEA_0002,Samsung,Smart Inverter Control Board,Appliance,Heating,413.01,False,AppliancePartsPros,New,420
+PRT_APP_HEA_0003,Bosch,Smart Inverter Control Board,Appliance,Heating,423.66,True,Marcone Supply,New,430
+PRT_APP_HEA_0004,GE,Oven Main Support Board,Appliance,Heating,327.16,True,RepairClinic,Certified Pre-Owned,395
+PRT_APP_HEA_0005,Samsung,Oven Main Support Board,Appliance,Heating,421.0,True,Marcone Supply,New,420
+PRT_APP_HEA_0006,Whirlpool,Oven Main Support Board,Appliance,Heating,341.51,True,Marcone Supply,Certified Pre-Owned,410
+PRT_APP_HEA_0007,Therm-O-Disc,Thermal Fuse (Safety Cutout),Appliance,Heating,126.16,True,RepairClinic,New,125
+PRT_APP_HEA_0008,Limitor,Thermal Fuse (Safety Cutout),Appliance,Heating,117.9,False,RepairClinic,New,115
+PRT_APP_HEA_0009,Selco,Thermal Fuse (Safety Cutout),Appliance,Heating,79.64,True,Sears PartsDirect,Refurbished,120
+PRT_APP_DRA_0001,Maytag,Core Sump Drainage Pump,Appliance,Drainage,345.44,False,Sears PartsDirect,New,350
+PRT_APP_DRA_0002,Whirlpool,Core Sump Drainage Pump,Appliance,Drainage,322.82,True,AppliancePartsPros,New,325
+PRT_APP_DRA_0003,LG,Core Sump Drainage Pump,Appliance,Drainage,331.3,False,Sears PartsDirect,New,335
+PRT_APP_DRA_0004,Fluid Systems,Drain Valves (Dual-Port),Appliance,Drainage,87.41,False,RepairClinic,New,85
+PRT_APP_DRA_0005,Whirlpool,Drain Valves (Dual-Port),Appliance,Drainage,64.79,True,AppliancePartsPros,Certified Pre-Owned,78
+PRT_APP_DRA_0006,Electrolux,Drain Valves (Dual-Port),Appliance,Drainage,80.1,False,RepairClinic,New,82
+PRT_APP_WAT_0001,Aqua-Pure,Inlet Water Valve (Dual Coil),Appliance,Water System,143.81,False,AppliancePartsPros,New,145
+PRT_APP_WAT_0002,Whirlpool,Inlet Water Valve (Dual Coil),Appliance,Water System,94.5,True,Sears PartsDirect,Refurbished,135
+PRT_APP_WAT_0003,Kenmore,Inlet Water Valve (Dual Coil),Appliance,Water System,137.57,True,Sears PartsDirect,New,140
+PRT_APP_WAT_0004,Gems Sensors,Water Level Pressure Switch,Appliance,Water System,64.14,True,AppliancePartsPros,New,65
+PRT_APP_WAT_0005,Whirlpool,Water Level Pressure Switch,Appliance,Water System,60.19,True,Marcone Supply,New,60
+PRT_APP_WAT_0006,Emerson,Water Level Pressure Switch,Appliance,Water System,61.44,False,Marcone Supply,New,62
+PRT_APP_LAT_0001,Whirlpool,Door Latch / Interlock Assembly,Appliance,Latch,221.42,False,RepairClinic,New,220
+PRT_APP_LAT_0002,Fisher & Paykel,Door Latch / Interlock Assembly,Appliance,Latch,205.85,True,RepairClinic,New,205
+PRT_APP_LAT_0003,Electrolux,Door Latch / Interlock Assembly,Appliance,Latch,192.48,True,Marcone Supply,Never Used (Old Stock),212
+PRT_APP_LAT_0004,Sirai,Magnetic Door Lock Solenoid,Appliance,Latch,63.51,True,RepairClinic,Refurbished,95
+PRT_APP_LAT_0005,RSA,Magnetic Door Lock Solenoid,Appliance,Latch,86.45,True,Sears PartsDirect,New,85
+PRT_APP_LAT_0006,Custom Coils,Magnetic Door Lock Solenoid,Appliance,Latch,61.21,True,Marcone Supply,Refurbished,90
+PRT_APP_FAN_0001,ERP,Convection Blower Motor,Appliance,Fan,105.35,True,AppliancePartsPros,Certified Pre-Owned,125
+PRT_APP_FAN_0002,Whirlpool,Convection Blower Motor,Appliance,Fan,119.03,True,Sears PartsDirect,New,118
+PRT_APP_FAN_0003,Frigidaire,Convection Blower Motor,Appliance,Fan,101.9,True,Marcone Supply,Certified Pre-Owned,122
+PRT_APP_FAN_0004,Nidec,Condenser Fan Motor,Appliance,Fan,101.39,True,Marcone Supply,Refurbished,145
+PRT_APP_FAN_0005,AO Smith,Condenser Fan Motor,Appliance,Fan,115.59,True,Marcone Supply,Certified Pre-Owned,138
+PRT_APP_FAN_0006,Fasco,Condenser Fan Motor,Appliance,Fan,144.64,False,RepairClinic,New,142
+PRT_APP_CON_0001,LG,Main Control Board,Appliance,Control,384.3,False,Marcone Supply,New,380
+PRT_APP_CON_0002,Samsung,Main Control Board,Appliance,Control,326.71,False,Marcone Supply,Never Used (Old Stock),365
+PRT_APP_CON_0003,Whirlpool,Main Control Board,Appliance,Control,372.58,True,Sears PartsDirect,New,372
+PRT_APP_CON_0004,Bosch ConnectedControl,IoT Connectivity Module,Appliance,Control,175.47,True,AppliancePartsPros,Certified Pre-Owned,220
+PRT_APP_CON_0005,Belimo,IoT Connectivity Module,Appliance,Control,174.27,False,Sears PartsDirect,Certified Pre-Owned,210
+PRT_APP_CON_0006,Schneider,IoT Connectivity Module,Appliance,Control,211.93,True,RepairClinic,New,215
+PRT_APP_SEN_0001,Semitec,NTC Thermistor (OEM),Appliance,Sensor,49.27,True,AppliancePartsPros,New,50
+PRT_APP_SEN_0002,Elpida,NTC Thermistor (OEM),Appliance,Sensor,29.45,True,AppliancePartsPros,Used,55
+PRT_APP_SEN_0003,Murata,NTC Thermistor (OEM),Appliance,Sensor,51.54,True,Marcone Supply,New,52
+PRT_APP_SEN_0004,HBK,Load Cell Weight Sensor,Appliance,Sensor,94.45,True,Sears PartsDirect,New,95
+PRT_APP_SEN_0005,Mettler Toledo,Load Cell Weight Sensor,Appliance,Sensor,74.55,False,AppliancePartsPros,Refurbished,110
+PRT_APP_SEN_0006,Vishay,Load Cell Weight Sensor,Appliance,Sensor,100.7,True,RepairClinic,New,98
+PRT_APP_ICE_0001,Whirlpool,Ice Maker Auger Motor,Appliance,Ice System,196.0,True,Sears PartsDirect,New,195
+PRT_APP_ICE_0002,GE,Ice Maker Auger Motor,Appliance,Ice System,182.9,True,Marcone Supply,New,182
+PRT_APP_ICE_0003,Frigidaire,Ice Maker Auger Motor,Appliance,Ice System,190.83,True,RepairClinic,New,188
+PRT_APP_ICE_0004,Whirlpool,Ice Level Optical Sensor,Appliance,Ice System,54.14,True,AppliancePartsPros,Certified Pre-Owned,65
+PRT_APP_ICE_0005,LG,Ice Level Optical Sensor,Appliance,Ice System,41.75,True,AppliancePartsPros,Refurbished,60
+PRT_APP_ICE_0006,Samsung,Ice Level Optical Sensor,Appliance,Ice System,42.99,False,AppliancePartsPros,Refurbished,62
+PRT_APP_DIS_0001,Samsung,LCD Touch Control Panel,Appliance,Display,113.48,True,AppliancePartsPros,Refurbished,165
+PRT_APP_DIS_0002,LG,LCD Touch Control Panel,Appliance,Display,127.9,True,Marcone Supply,Certified Pre-Owned,158
+PRT_APP_DIS_0003,Sharp Display,LCD Touch Control Panel,Appliance,Display,165.16,True,RepairClinic,New,162
+PRT_APP_DIS_0004,Tianma,LED Status Display Module,Appliance,Display,97.2,False,Marcone Supply,New,95
+PRT_APP_DIS_0005,BOE,LED Status Display Module,Appliance,Display,86.95,True,Sears PartsDirect,New,88
+PRT_APP_DIS_0006,AUO,LED Status Display Module,Appliance,Display,91.58,True,Marcone Supply,New,92
+PRT_APP_REF_0001,Danfoss,Scroll Compressor Start Relay,Appliance,Refrigeration,357.36,True,RepairClinic,Certified Pre-Owned,425
+PRT_APP_REF_0002,Embraco,Scroll Compressor Start Relay,Appliance,Refrigeration,395.33,False,Marcone Supply,New,395
+PRT_APP_REF_0003,Tecumseh,Scroll Compressor Start Relay,Appliance,Refrigeration,415.15,True,Sears PartsDirect,New,410
+PRT_APP_REF_0004,Whirlpool,Evaporator Coil Assembly,Appliance,Refrigeration,472.86,True,Sears PartsDirect,Certified Pre-Owned,580
+PRT_APP_REF_0005,LG,Evaporator Coil Assembly,Appliance,Refrigeration,561.04,True,Marcone Supply,New,550
+PRT_APP_REF_0006,Heatcraft,Evaporator Coil Assembly,Appliance,Refrigeration,445.86,True,Marcone Supply,Certified Pre-Owned,560
+PRT_APP_SEA_0001,Whirlpool,Refrigerator Door Gasket Seal,Appliance,Seals,68.79,True,AppliancePartsPros,Certified Pre-Owned,85
+PRT_APP_SEA_0002,Frigidaire,Refrigerator Door Gasket Seal,Appliance,Seals,51.75,True,AppliancePartsPros,Refurbished,78
+PRT_APP_SEA_0003,LG,Refrigerator Door Gasket Seal,Appliance,Seals,55.54,True,AppliancePartsPros,Refurbished,82
+PRT_APP_SEA_0004,Parker,Pump O-Ring and Seal Kit,Appliance,Seals,25.45,True,AppliancePartsPros,Used,45
+PRT_APP_SEA_0005,Trelleborg,Pump O-Ring and Seal Kit,Appliance,Seals,41.79,True,Marcone Supply,New,42
+PRT_APP_SEA_0006,NOK,Pump O-Ring and Seal Kit,Appliance,Seals,45.08,True,AppliancePartsPros,New,44
+PRT_MOB_CAM_0007_V,LG Innotek,Periscope Telephoto Module,Mobile,Camera,246.36,True,MobileSentrix,Refurbished,360
+PRT_APP_HEA_0010_V,Bosch,Smart Inverter Control Board,Appliance,Heating,439.93,True,RepairClinic,New,430
+PRT_MOB_DIS_0007_V,Samsung Display,LTPO Pro-Grade OLED Panel,Mobile,Display,249.05,True,Mouser Electronics,Used,450
+PRT_AUT_THE_0007_V,Modine,High-Voltage Coolant Heater,Automotive,Thermal,925.38,True,NAPA Auto Parts,Refurbished,1380
+PRT_IND_COO_0007_V,Grundfos,Industrial Cooling Pump (Heavy),Industrial,Cooling,1782.7,False,Motion Industries,New,1780
+PRT_IND_VFD_0010_V,Fuji Electric,VFD Control Card,Industrial,VFD,1789.99,True,Global Industrial,New,1800
+PRT_AUT_SAF_0007_V,Autoliv,SRS Airbag Module,Automotive,Safety,1031.22,True,NAPA Auto Parts,Used,1850
+PRT_AUT_POW_0010_V,ZF,PDK Transmission Clutch Pack,Automotive,Power Train,2068.56,True,Advance Auto Parts,Refurbished,2950
+PRT_APP_LAT_0007_V,Custom Coils,Magnetic Door Lock Solenoid,Appliance,Latch,74.36,True,Sears PartsDirect,Certified Pre-Owned,90
+PRT_APP_LAT_0008_V,Fisher & Paykel,Door Latch / Interlock Assembly,Appliance,Latch,209.33,True,RepairClinic,New,205
+PRT_IND_VFD_0011_V,ABB,VFD Thyristor Stack,Industrial,VFD,1854.37,True,Global Industrial,Certified Pre-Owned,2300
+PRT_AUT_BRA_0007_V,TRW,Brake Master Cylinder,Automotive,Brakes,339.78,True,AutoZone Commercial,New,350
+PRT_APP_MOT_0007_V,Nidec,Brushless DC Circulator Motor,Appliance,Motor,372.58,True,RepairClinic,New,380
+PRT_IND_CON_0010_V,Omron,S7-1500 PLC CPU Module,Industrial,Control,2324.62,True,Fastenal,New,2350
+PRT_MOB_CHA_0007_V,Amphenol,USB-C Charging Port Assembly,Mobile,Charging,87.45,True,iFixit Pro,New,88
+PRT_MOB_NET_0007_V,Murata,Wi-Fi 7 Antenna Assembly,Mobile,Networking,145.78,False,iFixit Pro,Certified Pre-Owned,178
+PRT_IND_VFD_0012_V,Fuji Electric,VFD Control Card,Industrial,VFD,1216.66,True,Grainger Industrial Supply,Refurbished,1800
+PRT_IND_CON_0011_V,Omron,Digital Pressure Control Node,Industrial,Control,1924.43,False,Global Industrial,Refurbished,2850
+PRT_APP_ICE_0007_V,Frigidaire,Ice Maker Auger Motor,Appliance,Ice System,154.56,True,RepairClinic,Certified Pre-Owned,188
+PRT_IND_CON_0012_V,Omron,S7-1500 PLC CPU Module,Industrial,Control,2445.98,True,Fastenal,New,2350
+PRT_IND_HYD_0010_V,Bosch Rexroth,High-Pressure Hydraulic Pump,Industrial,Hydraulics,7481.24,True,Grainger Industrial Supply,Never Used (Old Stock),8100
+PRT_AUT_POW_0011_V,ZF,PDK Transmission Clutch Pack,Automotive,Power Train,2908.79,True,NAPA Auto Parts,New,2950
+PRT_APP_MOT_0008_V,Nidec,Brushless DC Circulator Motor,Appliance,Motor,247.05,True,Marcone Supply,Refurbished,380
+PRT_APP_SEN_0007_V,Elpida,NTC Thermistor (OEM),Appliance,Sensor,53.59,True,Sears PartsDirect,New,55
+PRT_AUT_SAF_0008_V,TRW,Seatbelt Pre-Tensioner,Automotive,Safety,328.7,True,AutoZone Commercial,Certified Pre-Owned,395
+PRT_APP_CON_0007_V,Bosch ConnectedControl,IoT Connectivity Module,Appliance,Control,188.74,True,Sears PartsDirect,Certified Pre-Owned,220
+PRT_AUT_EXH_0007_V,Denso,Lambda / O2 Sensor,Automotive,Exhaust,48.2,True,Advance Auto Parts,Used,88
+PRT_MOB_DIS_0008_V,Apple Certified,Retina XDR Display Assembly,Mobile,Display,474.55,True,iFixit Pro,New,480
+PRT_APP_WAT_0007_V,Gems Sensors,Water Level Pressure Switch,Appliance,Water System,42.99,True,RepairClinic,Refurbished,65
+PRT_APP_REF_0007_V,Embraco,Scroll Compressor Start Relay,Appliance,Refrigeration,335.88,False,Marcone Supply,Certified Pre-Owned,395
+PRT_AUT_EMI_0004_V,ACDelco,EVAP Canister Purge Valve,Automotive,Emissions,107.85,False,O'Reilly Auto Parts,Refurbished,160
+PRT_AUT_CHA_0019_V,Ferodo,Ceramic Composite Brake Pad Set,Automotive,Chassis,949.73,False,AutoZone Commercial,Never Used (Old Stock),1100
+PRT_IND_PNE_0007_V,Festo,5/2 Solenoid Valve,Industrial,Pneumatics,184.23,False,Fastenal,Used,320
+PRT_AUT_THE_0008_V,Denso,High-Voltage Coolant Heater,Automotive,Thermal,1026.27,False,AutoZone Commercial,Refurbished,1450
+PRT_AUT_EMI_0005_V,ACDelco,EVAP Canister Purge Valve,Automotive,Emissions,109.29,False,AutoZone Commercial,Refurbished,160
+PRT_APP_WAT_0008_V,Gems Sensors,Water Level Pressure Switch,Appliance,Water System,62.31,True,Sears PartsDirect,New,65
+PRT_IND_BEA_0007_V,SKF,Cylindrical Roller Bearing (Large),Industrial,Bearings,1617.1,True,Global Industrial,Never Used (Old Stock),1850
+PRT_AUT_CHA_0020_V,Michelin,Sport Tire Set (Performance Spec),Automotive,Chassis,358.33,True,Advance Auto Parts,Certified Pre-Owned,450
+PRT_IND_HYD_0011_V,Parker,Hydraulic Accumulator,Industrial,Hydraulics,2097.2,True,Fastenal,New,2050
+PRT_AUT_THE_0009_V,Denso,High-Voltage Coolant Heater,Automotive,Thermal,1227.56,False,AutoZone Commercial,Certified Pre-Owned,1450
+PRT_AUT_BRA_0008_V,Delphi,ABS Wheel Speed Sensor,Automotive,Brakes,201.7,True,NAPA Auto Parts,Certified Pre-Owned,255
+PRT_AUT_EMI_0006_V,Bosch,EVAP Canister Purge Valve,Automotive,Emissions,119.34,True,O'Reilly Auto Parts,Refurbished,180
+PRT_AUT_THE_0010_V,Denso,High-Voltage Coolant Heater,Automotive,Thermal,834.22,False,AutoZone Commercial,Used,1450
+PRT_APP_HEA_0011_V,Whirlpool,Oven Main Support Board,Appliance,Heating,398.53,True,Marcone Supply,New,410
+PRT_IND_GEA_0007_V,Wittenstein,Planetary Reduction Gearhead,Industrial,Gearbox,1373.55,True,Fastenal,Used,2450
+PRT_AUT_COO_0010_V,Gates,OEM Precision Thermostat,Automotive,Cooling,315.86,False,Advance Auto Parts,Certified Pre-Owned,395
+PRT_APP_HEA_0012_V,Bosch,Smart Inverter Control Board,Appliance,Heating,339.6,True,Sears PartsDirect,Certified Pre-Owned,430
+PRT_APP_WAT_0009_V,Aqua-Pure,Inlet Water Valve (Dual Coil),Appliance,Water System,95.33,False,Sears PartsDirect,Refurbished,145
+PRT_IND_SEN_0010_V,Kistler,Precision Multi-Axis Load Cell,Industrial,Sensor,1976.71,True,Grainger Industrial Supply,Certified Pre-Owned,2350
+PRT_AUT_EMI_0007_V,ACDelco,EVAP Canister Purge Valve,Automotive,Emissions,113.86,False,O'Reilly Auto Parts,Refurbished,160
+PRT_AUT_SAF_0009_V,Autoliv,SRS Airbag Module,Automotive,Safety,1240.53,True,AutoZone Commercial,Refurbished,1850
+PRT_APP_HEA_0013_V,GE,Oven Main Support Board,Appliance,Heating,270.88,True,Sears PartsDirect,Refurbished,395
+PRT_AUT_THR_0004_V,Siemens VDO,Electronic Throttle Body,Automotive,Throttle,315.33,True,AutoZone Commercial,Certified Pre-Owned,370
+PRT_IND_VFD_0013_V,Siemens,VFD Thyristor Stack,Industrial,VFD,2505.75,True,Motion Industries,New,2450
+PRT_APP_HEA_0014_V,Whirlpool,Oven Main Support Board,Appliance,Heating,407.76,True,Sears PartsDirect,New,410
+PRT_AUT_POW_0012_V,ZF,PDK Transmission Clutch Pack,Automotive,Power Train,2900.15,True,NAPA Auto Parts,New,2950
+PRT_IND_BEA_0008_V,SKF,Precision Angular Contact Bearing,Industrial,Bearings,2394.77,True,Motion Industries,Certified Pre-Owned,2850
+PRT_AUT_FUE_0007_V,Delphi,High-Pressure Fuel Pump (EV),Automotive,Fuel System,989.39,True,Advance Auto Parts,New,950
+PRT_IND_BEA_0009_V,FAG,Cylindrical Roller Bearing (Large),Industrial,Bearings,1379.43,True,Motion Industries,Certified Pre-Owned,1750
+PRT_MOB_POW_0007_V,Analog Devices,Voltage Regulator Module,Mobile,Power Management,207.99,True,Digi-Key Electronics,New,215
+PRT_IND_ELE_0007_V,Schneider,Motor Overload Relay,Industrial,Electrical,2502.43,True,Grainger Industrial Supply,Certified Pre-Owned,3050
+PRT_AUT_ENG_0013_V,Denso,Direct Fuel Injector (ICE),Automotive,Engine,237.29,True,Advance Auto Parts,Refurbished,350
+PRT_AUT_ENG_0014_V,Delphi,High-Precision Ignition Coil (M4),Automotive,Engine,64.58,True,O'Reilly Auto Parts,Used,118
+PRT_IND_VFD_0014_V,Rockwell,60Hz Active VFD Inverter,Industrial,VFD,11538.22,False,Fastenal,New,12000
+PRT_AUT_COO_0011_V,Bosch,OEM Precision Thermostat,Automotive,Cooling,290.17,True,AutoZone Commercial,Refurbished,420
+PRT_IND_DRI_0007_V,Siemens,Servo Drive Amplifier,Industrial,Drive,2892.41,True,Global Industrial,Refurbished,4200
+PRT_APP_FAN_0007_V,AO Smith,Condenser Fan Motor,Appliance,Fan,140.6,True,RepairClinic,New,138
+PRT_AUT_CHA_0021_V,Delta,7.2kW On-Board Charger,Automotive,Charging,1042.57,True,NAPA Auto Parts,Used,1950
+PRT_IND_COO_0008_V,Alfa Laval,Heat Exchanger Core Module,Industrial,Cooling,2277.09,True,Grainger Industrial Supply,Refurbished,3200
+PRT_MOB_NET_0008_V,Murata,Wi-Fi 7 Antenna Assembly,Mobile,Networking,145.66,False,MobileSentrix,Certified Pre-Owned,178
+PRT_MOB_DIS_0009_V,Apple Certified,Retina XDR Display Assembly,Mobile,Display,260.88,True,Digi-Key Electronics,Used,480
+PRT_MOB_DIS_0010_V,Samsung Display,LTPO Pro-Grade OLED Panel,Mobile,Display,431.21,True,iFixit Pro,New,450
+PRT_IND_PNE_0008_V,SMC,Precision Pressure Regulator,Industrial,Pneumatics,539.57,True,Fastenal,New,550
+PRT_APP_DIS_0007_V,Samsung,LCD Touch Control Panel,Appliance,Display,166.03,True,Marcone Supply,New,165
+PRT_APP_FAN_0008_V,AO Smith,Condenser Fan Motor,Appliance,Fan,135.55,True,RepairClinic,New,138
+PRT_MOB_DIS_0011_V,Sharp,Retina XDR Display Assembly,Mobile,Display,315.39,True,iFixit Pro,Refurbished,450
+PRT_AUT_EMI_0008_V,Bosch,EVAP Canister Purge Valve,Automotive,Emissions,188.47,True,NAPA Auto Parts,New,180
+PRT_IND_ELE_0008_V,ABB,High-Current Circuit Breaker,Industrial,Electrical,1251.91,True,Motion Industries,Refurbished,1850
+PRT_IND_COO_0009_V,Alfa Laval,Heat Exchanger Core Module,Industrial,Cooling,3174.56,True,Grainger Industrial Supply,New,3200
+PRT_AUT_EMI_0009_V,Bosch,EVAP Canister Purge Valve,Automotive,Emissions,172.08,True,O'Reilly Auto Parts,New,180
+PRT_AUT_POW_0013_V,ZF,PDK Transmission Clutch Pack,Automotive,Power Train,2838.75,True,O'Reilly Auto Parts,New,2950
+PRT_MOB_CAM_0008_V,OmniVision,48MP Camera Sensor Module,Mobile,Camera,203.02,False,Digi-Key Electronics,Refurbished,295
+PRT_APP_HEA_0015_V,Selco,Thermal Fuse (Safety Cutout),Appliance,Heating,78.0,True,AppliancePartsPros,Refurbished,120
+PRT_IND_HYD_0012_V,Bosch Rexroth,High-Pressure Hydraulic Pump,Industrial,Hydraulics,6853.15,True,Motion Industries,Certified Pre-Owned,8100
+PRT_APP_HEA_0016_V,Selco,Thermal Fuse (Safety Cutout),Appliance,Heating,78.92,True,AppliancePartsPros,Refurbished,120
+PRT_APP_MOT_0009_V,ABB,Brushless DC Circulator Motor,Appliance,Motor,241.53,False,AppliancePartsPros,Refurbished,370
+PRT_MOB_CAM_0009_V,OmniVision,48MP Camera Sensor Module,Mobile,Camera,154.41,False,Mouser Electronics,Used,295
+PRT_AUT_POW_0014_V,BorgWarner,High-Voltage Inverter Plate,Automotive,Power Train,3286.75,True,Advance Auto Parts,Used,6200
+PRT_IND_HYD_0013_V,Gates,Hydraulic Line Pressure Hose (HP),Industrial,Hydraulics,640.45,False,Grainger Industrial Supply,Used,1150
+PRT_APP_SEN_0008_V,HBK,Load Cell Weight Sensor,Appliance,Sensor,77.3,True,Marcone Supply,Certified Pre-Owned,95
+PRT_APP_WAT_0010_V,Aqua-Pure,Inlet Water Valve (Dual Coil),Appliance,Water System,94.15,False,AppliancePartsPros,Refurbished,145
+PRT_APP_WAT_0011_V,Emerson,Water Level Pressure Switch,Appliance,Water System,53.35,False,Marcone Supply,Certified Pre-Owned,62
+PRT_MOB_POW_0008_V,Analog Devices,Voltage Regulator Module,Mobile,Power Management,206.68,True,MobileSentrix,New,215
+PRT_IND_PNE_0009_V,SMC,Precision Pressure Regulator,Industrial,Pneumatics,315.58,True,Fastenal,Used,550
+PRT_AUT_ENG_0015_V,Delphi,High-Precision Ignition Coil (M4),Automotive,Engine,120.05,True,NAPA Auto Parts,New,118
+PRT_MOB_POW_0009_V,MaxLinear,Power Management IC,Mobile,Power Management,331.49,True,Digi-Key Electronics,New,340
+PRT_MOB_DIS_0012_V,Apple Certified,Retina XDR Display Assembly,Mobile,Display,468.31,True,MobileSentrix,New,480
+PRT_MOB_NET_0009_V,Murata,Wi-Fi 7 Antenna Assembly,Mobile,Networking,116.47,False,Mouser Electronics,Refurbished,178
+PRT_APP_SEA_0007_V,Whirlpool,Refrigerator Door Gasket Seal,Appliance,Seals,84.22,True,Marcone Supply,New,85
+PRT_IND_SEN_0011_V,IFM,Inductive Proximity Sensor,Industrial,Sensor,215.8,True,Motion Industries,Refurbished,320
+PRT_IND_VFD_0015_V,Rockwell,60Hz Active VFD Inverter,Industrial,VFD,7949.13,False,Fastenal,Refurbished,12000
+PRT_IND_CON_0013_V,Siemens,S7-1500 PLC CPU Module,Industrial,Control,2300.42,True,Grainger Industrial Supply,Never Used (Old Stock),2450
+PRT_MOB_DIS_0013_V,BOE,LTPO Pro-Grade OLED Panel,Mobile,Display,307.85,False,iFixit Pro,Certified Pre-Owned,395
+PRT_IND_PNE_0010_V,SMC,Precision Pressure Regulator,Industrial,Pneumatics,568.4,True,Grainger Industrial Supply,New,550
+PRT_AUT_COO_0012_V,Gates,OEM Precision Thermostat,Automotive,Cooling,394.16,False,NAPA Auto Parts,New,395
+PRT_AUT_CHA_0022_V,Eaton,7.2kW On-Board Charger,Automotive,Charging,1524.91,True,O'Reilly Auto Parts,Refurbished,2250
+PRT_AUT_THR_0005_V,Denso,Electronic Throttle Body,Automotive,Throttle,190.62,False,AutoZone Commercial,Used,360
+PRT_IND_CON_0014_V,Siemens,S7-1500 PLC CPU Module,Industrial,Control,1934.64,True,Fastenal,Certified Pre-Owned,2450
+PRT_MOB_DIS_0014_V,Sharp,Retina XDR Display Assembly,Mobile,Display,310.55,True,iFixit Pro,Refurbished,450
+PRT_IND_GEA_0008_V,Flender,Industrial Gearbox Assembly,Industrial,Gearbox,4202.55,True,Fastenal,New,4100
+PRT_IND_HYD_0014_V,Bosch Rexroth,High-Pressure Hydraulic Pump,Industrial,Hydraulics,7549.7,True,Grainger Industrial Supply,Never Used (Old Stock),8100
+PRT_AUT_THE_0011_V,Denso,High-Voltage Coolant Heater,Automotive,Thermal,778.88,False,NAPA Auto Parts,Used,1450
+PRT_IND_BEA_0010_V,FAG,Cylindrical Roller Bearing (Large),Industrial,Bearings,1833.5,True,Motion Industries,New,1750
+PRT_MOB_DIS_0015_V,Samsung Display,LTPO Pro-Grade OLED Panel,Mobile,Display,319.14,True,iFixit Pro,Refurbished,450
+PRT_APP_MOT_0010_V,ABB,Brushless DC Circulator Motor,Appliance,Motor,384.96,False,Marcone Supply,New,370
+PRT_AUT_THE_0012_V,Denso,High-Voltage Coolant Heater,Automotive,Thermal,951.82,False,Advance Auto Parts,Refurbished,1450
+PRT_IND_HYD_0015_V,Bosch Rexroth,Hydraulic Accumulator,Industrial,Hydraulics,1828.67,True,Motion Industries,Certified Pre-Owned,2200
+PRT_APP_HEA_0017_V,Samsung,Oven Main Support Board,Appliance,Heating,353.56,True,AppliancePartsPros,Certified Pre-Owned,420
+PRT_APP_MOT_0011_V,Whirlpool,Direct-Drive Induction Motor,Appliance,Motor,480.25,False,Sears PartsDirect,Certified Pre-Owned,585
+PRT_MOB_POW_0010_V,Analog Devices,Voltage Regulator Module,Mobile,Power Management,209.56,True,iFixit Pro,New,215
+PRT_APP_HEA_0018_V,Samsung,Smart Inverter Control Board,Appliance,Heating,288.29,False,Sears PartsDirect,Refurbished,420
+PRT_MOB_BIO_0007_V,STMicro,TrueDepth Camera Array,Mobile,Biometrics,436.67,True,Digi-Key Electronics,New,430
+PRT_MOB_CHA_0008_V,TDK,MagSafe Wireless Coil Assembly,Mobile,Charging,108.26,False,MobileSentrix,Certified Pre-Owned,128
+PRT_AUT_EMI_0010_V,Bosch,EVAP Canister Purge Valve,Automotive,Emissions,163.95,True,O'Reilly Auto Parts,Never Used (Old Stock),180
+PRT_MOB_BIO_0008_V,STMicro,TrueDepth Camera Array,Mobile,Biometrics,389.15,True,Mouser Electronics,Never Used (Old Stock),430
+PRT_APP_REF_0008_V,Embraco,Scroll Compressor Start Relay,Appliance,Refrigeration,408.18,False,Sears PartsDirect,New,395
+PRT_APP_SEN_0009_V,Elpida,NTC Thermistor (OEM),Appliance,Sensor,52.34,True,AppliancePartsPros,New,55
+PRT_AUT_THE_0013_V,Denso,High-Voltage Coolant Heater,Automotive,Thermal,1480.8,False,AutoZone Commercial,New,1450
+PRT_AUT_SAF_0010_V,ZF,SRS Airbag Module,Automotive,Safety,1885.37,True,NAPA Auto Parts,New,1800
+PRT_APP_LAT_0009_V,Sirai,Magnetic Door Lock Solenoid,Appliance,Latch,64.98,True,Sears PartsDirect,Refurbished,95
+PRT_IND_HYD_0016_V,Gates,Hydraulic Line Pressure Hose (HP),Industrial,Hydraulics,1126.51,False,Fastenal,New,1150
+PRT_MOB_BIO_0009_V,Qualcomm,Under-Display Fingerprint Sensor,Mobile,Biometrics,148.05,True,iFixit Pro,Refurbished,220
+PRT_APP_DIS_0008_V,LG,LCD Touch Control Panel,Appliance,Display,104.25,True,Sears PartsDirect,Refurbished,158
+PRT_AUT_FUE_0008_V,Delphi,High-Pressure Fuel Pump (EV),Automotive,Fuel System,742.41,True,O'Reilly Auto Parts,Certified Pre-Owned,950
+PRT_IND_HYD_0017_V,Bosch Rexroth,Hydraulic Accumulator,Industrial,Hydraulics,1966.98,True,Motion Industries,Never Used (Old Stock),2200
+PRT_MOB_BAT_0010_V,Panasonic,3700mAh Flagship Battery Cell,Mobile,Battery,71.35,True,MobileSentrix,Certified Pre-Owned,88
+PRT_MOB_POW_0011_V,Analog Devices,Voltage Regulator Module,Mobile,Power Management,181.36,True,Mouser Electronics,Certified Pre-Owned,215
+PRT_APP_HEA_0019_V,Samsung,Smart Inverter Control Board,Appliance,Heating,402.1,False,AppliancePartsPros,New,420
+PRT_IND_CON_0015_V,Omron,S7-1500 PLC CPU Module,Industrial,Control,1305.33,True,Motion Industries,Used,2350
+PRT_MOB_BIO_0010_V,STMicro,TrueDepth Camera Array,Mobile,Biometrics,408.77,True,iFixit Pro,New,430
+PRT_AUT_EMI_0011_V,Bosch,EVAP Canister Purge Valve,Automotive,Emissions,178.15,True,Advance Auto Parts,New,180
+PRT_IND_SEA_0007_V,Trelleborg,High-Pressure Rotary Seal Kit,Industrial,Seals,948.78,True,Global Industrial,Certified Pre-Owned,1150
+PRT_AUT_EXH_0008_V,Denso,Lambda / O2 Sensor,Automotive,Exhaust,70.96,True,AutoZone Commercial,Certified Pre-Owned,88
+PRT_AUT_COO_0013_V,Bosch,OEM Precision Thermostat,Automotive,Cooling,329.8,True,NAPA Auto Parts,Certified Pre-Owned,420
+PRT_IND_SEA_0008_V,NOK,Shaft Lip Seal Set,Industrial,Seals,259.4,False,Grainger Industrial Supply,New,270
+PRT_AUT_CHA_0023_V,Ferodo,Ceramic Composite Brake Pad Set,Automotive,Chassis,1094.96,False,Advance Auto Parts,New,1100
+PRT_APP_REF_0009_V,Tecumseh,Scroll Compressor Start Relay,Appliance,Refrigeration,326.77,True,RepairClinic,Certified Pre-Owned,410
+PRT_AUT_COO_0014_V,Mishimoto,Performance Radiator Core,Automotive,Cooling,637.85,True,AutoZone Commercial,New,650
+PRT_APP_ICE_0008_V,Whirlpool,Ice Level Optical Sensor,Appliance,Ice System,51.11,True,RepairClinic,Certified Pre-Owned,65
+PRT_APP_CON_0008_V,LG,Main Control Board,Appliance,Control,345.45,False,Marcone Supply,Never Used (Old Stock),380
+PRT_AUT_EXH_0009_V,Magneti-Marelli,Catalytic Converter (OEM Spec),Automotive,Exhaust,1904.84,True,AutoZone Commercial,New,1950
+PRT_AUT_COO_0015_V,Gates,OEM Precision Thermostat,Automotive,Cooling,404.28,False,O'Reilly Auto Parts,New,395
+PRT_IND_HYD_0018_V,Bosch Rexroth,High-Pressure Hydraulic Pump,Industrial,Hydraulics,6720.36,True,Global Industrial,Certified Pre-Owned,8100
+PRT_IND_GEA_0009_V,Wittenstein,Planetary Reduction Gearhead,Industrial,Gearbox,2291.18,True,Global Industrial,Never Used (Old Stock),2450
+PRT_APP_FAN_0009_V,Nidec,Condenser Fan Motor,Appliance,Fan,95.65,True,RepairClinic,Refurbished,145
+PRT_IND_DRI_0008_V,Mitsubishi,Servo Drive Amplifier,Industrial,Drive,2868.54,True,Grainger Industrial Supply,Refurbished,4300
+PRT_APP_CON_0009_V,Whirlpool,Main Control Board,Appliance,Control,305.91,True,RepairClinic,Certified Pre-Owned,372
+PRT_IND_HYD_0019_V,Gates,Hydraulic Line Pressure Hose (HP),Industrial,Hydraulics,1192.38,False,Global Industrial,New,1150
+PRT_MOB_PRO_0007_V,Apple Certified,A17 Pro Bionic Logic Board,Mobile,Processor,617.99,True,iFixit Pro,Certified Pre-Owned,720
+PRT_APP_LAT_0010_V,Whirlpool,Door Latch / Interlock Assembly,Appliance,Latch,185.44,False,Marcone Supply,Certified Pre-Owned,220
+PRT_IND_VFD_0016_V,Rockwell,60Hz Active VFD Inverter,Industrial,VFD,12407.14,False,Global Industrial,New,12000
+PRT_AUT_FUE_0009_V,Bosch,High-Pressure Fuel Pump (EV),Automotive,Fuel System,602.88,False,O'Reilly Auto Parts,Refurbished,880
+PRT_APP_HEA_0020_V,Samsung,Oven Main Support Board,Appliance,Heating,371.67,True,Sears PartsDirect,Never Used (Old Stock),420
+PRT_APP_WAT_0012_V,Gems Sensors,Water Level Pressure Switch,Appliance,Water System,67.52,True,AppliancePartsPros,New,65
+PRT_MOB_CHA_0009_V,TDK,MagSafe Wireless Coil Assembly,Mobile,Charging,126.5,False,MobileSentrix,New,128
+PRT_MOB_POW_0012_V,Analog Devices,Voltage Regulator Module,Mobile,Power Management,209.84,True,Digi-Key Electronics,New,215
+PRT_MOB_NET_0010_V,Murata,Wi-Fi 7 Antenna Assembly,Mobile,Networking,139.05,False,Mouser Electronics,Certified Pre-Owned,178
+PRT_AUT_POW_0015_V,BorgWarner,High-Voltage Inverter Plate,Automotive,Power Train,6233.54,True,Advance Auto Parts,New,6200
+PRT_IND_VIB_0007_V,SKF,Continuous Online Vibration Monitor,Industrial,Vibration,1873.84,True,Grainger Industrial Supply,Refurbished,2800
+PRT_APP_ICE_0009_V,Samsung,Ice Level Optical Sensor,Appliance,Ice System,53.81,False,Marcone Supply,Never Used (Old Stock),62
+PRT_AUT_ENG_0016_V,Bosch,Silver-Electrode Spark Plug (BMW),Automotive,Engine,23.52,True,AutoZone Commercial,Used,45
+PRT_APP_SEN_0010_V,Semitec,NTC Thermistor (OEM),Appliance,Sensor,43.95,True,Sears PartsDirect,Never Used (Old Stock),50
+PRT_APP_DRA_0007_V,Fluid Systems,Drain Valves (Dual-Port),Appliance,Drainage,55.28,False,Marcone Supply,Refurbished,85
+PRT_AUT_CHA_0024_V,Brembo,6-Piston Aluminum Caliper,Automotive,Chassis,1885.42,True,AutoZone Commercial,New,1850
+PRT_IND_VFD_0017_V,Siemens,VFD Thyristor Stack,Industrial,VFD,2517.24,True,Grainger Industrial Supply,New,2450
+PRT_AUT_BRA_0009_V,Delphi,ABS Wheel Speed Sensor,Automotive,Brakes,255.81,True,NAPA Auto Parts,New,255
+PRT_APP_DIS_0009_V,Sharp Display,LCD Touch Control Panel,Appliance,Display,156.12,True,Sears PartsDirect,New,162
+PRT_IND_GEA_0010_V,Flender,Industrial Gearbox Assembly,Industrial,Gearbox,3925.99,True,Global Industrial,New,4100
+PRT_AUT_THE_0014_V,Modine,High-Voltage Coolant Heater,Automotive,Thermal,1418.42,True,Advance Auto Parts,New,1380
+PRT_AUT_ENG_0017_V,Delphi,Direct Fuel Injector (ICE),Automotive,Engine,326.54,True,Advance Auto Parts,New,330
+PRT_AUT_THE_0015_V,Mahle,Thermal Management Module,Automotive,Thermal,1013.24,True,NAPA Auto Parts,New,1050
+PRT_AUT_CHA_0025_V,Ferodo,Ceramic Composite Brake Pad Set,Automotive,Chassis,1146.49,False,Advance Auto Parts,New,1100
+PRT_APP_SEA_0008_V,Frigidaire,Refrigerator Door Gasket Seal,Appliance,Seals,65.73,True,AppliancePartsPros,Certified Pre-Owned,78
+PRT_MOB_NET_0011_V,Murata,Wi-Fi 7 Antenna Assembly,Mobile,Networking,176.84,False,iFixit Pro,New,178
+PRT_AUT_EMI_0012_V,ACDelco,EVAP Canister Purge Valve,Automotive,Emissions,161.88,False,O'Reilly Auto Parts,New,160
+PRT_AUT_CHA_0026_V,Eaton,7.2kW On-Board Charger,Automotive,Charging,2312.79,True,NAPA Auto Parts,New,2250
+PRT_AUT_CHA_0027_V,Eaton,7.2kW On-Board Charger,Automotive,Charging,2003.91,True,Advance Auto Parts,Never Used (Old Stock),2250
+PRT_APP_LAT_0011_V,Fisher & Paykel,Door Latch / Interlock Assembly,Appliance,Latch,202.26,True,Sears PartsDirect,New,205

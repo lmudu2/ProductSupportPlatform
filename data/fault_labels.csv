@@ -1,0 +1,501 @@
+fault_code,device_type,system_affected,root_cause,severity,avg_parts_cost,avg_labor_hours
+EV_BATT_THERM,Automotive,Thermal,Battery Coolant Loop Failure,3,4850.0,9.5
+EV_DRIVE_INV,Automotive,Power Train,Drive Unit Inverter Anomaly,3,6800.0,12.5
+SUSP_AIR_LEAK,Automotive,Chassis,Active Air Suspension Leak,3,3200.0,6.5
+ERR_OBC_FAIL,Automotive,Charging,On-Board Charger Failure,3,2450.0,4.5
+P0700,Automotive,Transmission,TCM/PDK Control Malfunction,3,2400.0,10.5
+U0100,Automotive,Communication,High-Voltage Gateway Comm Loss,3,1550.0,5.5
+P0300,Automotive,Engine,Misfire Cluster Detected ICE,3,125.0,6.6
+P0128,Automotive,Cooling,Thermostat Rationality Error,1,850.0,2.5
+P0171,Automotive,Fuel System,Fuel Trim System Lean Bank 1,2,420.0,3.0
+P0420,Automotive,Exhaust,Catalyst System Efficiency Below Threshold,2,2200.0,4.0
+P0505,Automotive,Throttle,Idle Control System Malfunction,1,380.0,2.5
+P0340,Automotive,Ignition,Camshaft Position Sensor Circuit,2,320.0,3.5
+P0455,Automotive,Emissions,EVAP System Large Leak Detected,2,180.0,2.0
+B0001,Automotive,Safety,Airbag Deployment Circuit Fault,3,1850.0,6.0
+C0031,Automotive,Brakes,ABS Wheel Speed Sensor Fault,2,280.0,2.5
+P0300_V001,Automotive,Engine,Misfire Cluster Detected ICE (Variant),3,111.34,6.7
+P0455_V002,Automotive,Emissions,EVAP System Large Leak Detected (Variant),2,173.79,1.7
+B0001_V003,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,2070.64,6.8
+B0001_V004,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,1612.85,6.3
+ERR_OBC_FAIL_V005,Automotive,Charging,On-Board Charger Failure (Variant),3,2117.04,4.8
+P0505_V006,Automotive,Throttle,Idle Control System Malfunction (Variant),1,408.03,2.7
+C0031_V007,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,317.55,2.4
+P0505_V008,Automotive,Throttle,Idle Control System Malfunction (Variant),1,332.35,2.2
+P0171_V009,Automotive,Fuel System,Fuel Trim System Lean Bank 1 (Variant),2,437.0,3.1
+P0340_V010,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,352.18,4.0
+B0001_V011,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,1915.05,5.1
+P0340_V012,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,282.72,3.4
+U0100_V013,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1532.14,5.4
+P0420_V014,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,2412.03,3.7
+EV_BATT_THERM_V015,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,5672.25,9.1
+P0455_V016,Automotive,Emissions,EVAP System Large Leak Detected (Variant),2,207.36,1.9
+EV_BATT_THERM_V017,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,5650.56,8.4
+U0100_V018,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1664.72,4.7
+ERR_OBC_FAIL_V019,Automotive,Charging,On-Board Charger Failure (Variant),3,2553.97,4.0
+P0505_V020,Automotive,Throttle,Idle Control System Malfunction (Variant),1,347.82,2.7
+U0100_V021,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1343.82,4.7
+B0001_V022,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,2027.63,5.4
+EV_BATT_THERM_V023,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,3982.88,9.8
+P0455_V024,Automotive,Emissions,EVAP System Large Leak Detected (Variant),2,145.76,1.7
+P0505_V025,Automotive,Throttle,Idle Control System Malfunction (Variant),1,418.66,2.7
+P0340_V026,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,312.0,3.3
+C0031_V027,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,290.12,2.7
+P0505_V028,Automotive,Throttle,Idle Control System Malfunction (Variant),1,401.78,2.3
+B0001_V029,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,1505.7,5.6
+C0031_V030,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,305.8,2.4
+P0420_V031,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,2367.67,3.7
+SUSP_AIR_LEAK_V032,Automotive,Chassis,Active Air Suspension Leak (Variant),3,2659.14,5.7
+EV_BATT_THERM_V033,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,5523.56,9.9
+P0420_V034,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,2123.35,4.5
+P0340_V035,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,257.45,3.5
+ERR_OBC_FAIL_V036,Automotive,Charging,On-Board Charger Failure (Variant),3,2409.83,3.9
+P0455_V037,Automotive,Emissions,EVAP System Large Leak Detected (Variant),2,183.45,1.8
+P0700_V038,Automotive,Transmission,TCM/PDK Control Malfunction (Variant),3,2603.77,9.6
+EV_DRIVE_INV_V039,Automotive,Power Train,Drive Unit Inverter Anomaly (Variant),3,7715.41,13.1
+P0340_V040,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,354.42,3.5
+P0420_V041,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,1840.77,3.7
+C0031_V042,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,334.12,2.4
+C0031_V043,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,282.91,2.4
+B0001_V044,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,1487.66,5.6
+ERR_OBC_FAIL_V045,Automotive,Charging,On-Board Charger Failure (Variant),3,2764.98,4.2
+P0300_V046,Automotive,Engine,Misfire Cluster Detected ICE (Variant),3,137.44,6.5
+ERR_OBC_FAIL_V047,Automotive,Charging,On-Board Charger Failure (Variant),3,2813.67,4.1
+U0100_V048,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1260.83,5.0
+B0001_V049,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,2165.58,5.2
+EV_BATT_THERM_V050,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,4893.45,10.6
+ERR_OBC_FAIL_V051,Automotive,Charging,On-Board Charger Failure (Variant),3,2340.48,4.3
+B0001_V052,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,1775.08,6.1
+EV_DRIVE_INV_V053,Automotive,Power Train,Drive Unit Inverter Anomaly (Variant),3,6118.33,14.0
+P0300_V054,Automotive,Engine,Misfire Cluster Detected ICE (Variant),3,144.62,6.1
+P0300_V055,Automotive,Engine,Misfire Cluster Detected ICE (Variant),3,120.43,6.7
+P0171_V056,Automotive,Fuel System,Fuel Trim System Lean Bank 1 (Variant),2,460.56,3.0
+P0128_V057,Automotive,Cooling,Thermostat Rationality Error (Variant),1,1003.82,2.6
+U0100_V058,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1701.39,6.3
+C0031_V059,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,301.06,2.7
+U0100_V060,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1851.12,6.1
+P0505_V061,Automotive,Throttle,Idle Control System Malfunction (Variant),1,306.49,2.9
+EV_DRIVE_INV_V062,Automotive,Power Train,Drive Unit Inverter Anomaly (Variant),3,7896.71,12.2
+EV_DRIVE_INV_V063,Automotive,Power Train,Drive Unit Inverter Anomaly (Variant),3,7605.85,12.5
+U0100_V064,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1363.27,6.2
+P0171_V065,Automotive,Fuel System,Fuel Trim System Lean Bank 1 (Variant),2,503.55,3.3
+P0128_V066,Automotive,Cooling,Thermostat Rationality Error (Variant),1,903.71,2.7
+P0128_V067,Automotive,Cooling,Thermostat Rationality Error (Variant),1,827.81,2.5
+U0100_V068,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1506.27,5.2
+P0505_V069,Automotive,Throttle,Idle Control System Malfunction (Variant),1,438.64,2.3
+P0300_V070,Automotive,Engine,Misfire Cluster Detected ICE (Variant),3,125.5,6.7
+B0001_V071,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,1532.8,5.2
+P0700_V072,Automotive,Transmission,TCM/PDK Control Malfunction (Variant),3,2014.03,11.3
+P0505_V073,Automotive,Throttle,Idle Control System Malfunction (Variant),1,367.83,2.4
+U0100_V074,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1655.23,4.7
+EV_DRIVE_INV_V075,Automotive,Power Train,Drive Unit Inverter Anomaly (Variant),3,5655.44,12.4
+U0100_V076,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1401.61,4.9
+P0340_V077,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,317.67,3.5
+P0700_V078,Automotive,Transmission,TCM/PDK Control Malfunction (Variant),3,2077.97,9.3
+P0420_V079,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,2333.87,4.2
+P0505_V080,Automotive,Throttle,Idle Control System Malfunction (Variant),1,309.71,2.6
+U0100_V081,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1432.05,6.2
+EV_BATT_THERM_V082,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,4566.36,10.7
+P0455_V083,Automotive,Emissions,EVAP System Large Leak Detected (Variant),2,166.67,1.9
+SUSP_AIR_LEAK_V084,Automotive,Chassis,Active Air Suspension Leak (Variant),3,3744.69,5.6
+P0128_V085,Automotive,Cooling,Thermostat Rationality Error (Variant),1,1005.63,2.3
+ERR_OBC_FAIL_V086,Automotive,Charging,On-Board Charger Failure (Variant),3,2456.46,4.7
+C0031_V087,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,275.82,2.2
+EV_BATT_THERM_V088,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,5819.96,9.8
+EV_BATT_THERM_V089,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,5365.61,8.8
+ERR_OBC_FAIL_V090,Automotive,Charging,On-Board Charger Failure (Variant),3,2411.99,4.7
+ERR_OBC_FAIL_V091,Automotive,Charging,On-Board Charger Failure (Variant),3,2931.59,5.2
+EV_BATT_THERM_V092,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,3986.6,9.4
+P0700_V093,Automotive,Transmission,TCM/PDK Control Malfunction (Variant),3,2798.28,11.1
+P0420_V094,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,2617.13,4.3
+P0340_V095,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,283.62,3.1
+P0505_V096,Automotive,Throttle,Idle Control System Malfunction (Variant),1,424.8,2.1
+ERR_OBC_FAIL_V097,Automotive,Charging,On-Board Charger Failure (Variant),3,2725.07,4.5
+P0420_V098,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,2100.26,4.5
+B0001_V099,Automotive,Safety,Airbag Deployment Circuit Fault (Variant),3,1591.73,6.8
+P0505_V100,Automotive,Throttle,Idle Control System Malfunction (Variant),1,435.09,2.5
+EV_BATT_THERM_V101,Automotive,Thermal,Battery Coolant Loop Failure (Variant),3,5538.13,8.8
+P0420_V102,Automotive,Exhaust,Catalyst System Efficiency Below Threshold (Variant),2,2426.87,4.4
+P0455_V103,Automotive,Emissions,EVAP System Large Leak Detected (Variant),2,202.11,2.1
+P0340_V104,Automotive,Ignition,Camshaft Position Sensor Circuit (Variant),2,261.78,3.3
+C0031_V105,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,277.34,2.1
+C0031_V106,Automotive,Brakes,ABS Wheel Speed Sensor Fault (Variant),2,329.13,2.1
+P0171_V107,Automotive,Fuel System,Fuel Trim System Lean Bank 1 (Variant),2,359.19,3.4
+U0100_V108,Automotive,Communication,High-Voltage Gateway Comm Loss (Variant),3,1842.68,5.1
+P0128_V109,Automotive,Cooling,Thermostat Rationality Error (Variant),1,954.76,2.5
+P0300_V110,Automotive,Engine,Misfire Cluster Detected ICE (Variant),3,126.25,6.9
+ERR_DISP_01,Mobile,Display,Organic LED Flicker Pro-Grade,1,380.0,1.2
+ERR_BATT_01,Mobile,Battery,Lithium Ion Cell Swelling,3,245.0,2.0
+ERR_BATT_03,Mobile,Battery,Degraded Capacity Below 70%,2,225.0,1.4
+ERR_CPU_TEM,Mobile,Processor,Thermal Throttling Event,3,245.0,1.1
+ERR_WIFI_AN,Mobile,Networking,Antenna Signal Attenuation,1,195.0,1.8
+ERR_PWR_IC,Mobile,Power Management,Charge Controller Short Circuit,3,380.0,1.5
+ERR_DISP_BRK,Mobile,Display,Shattered Display Assembly LTPO OLED,2,650.0,2.5
+ERR_CAM_MOD,Mobile,Camera,Optical Image Stabilizer Failure,2,320.0,1.8
+ERR_USB_C,Mobile,Charging,USB-C Port Debris Pin Damage,1,95.0,0.8
+ERR_FACE_ID,Mobile,Biometrics,TrueDepth Camera Misalignment,2,480.0,2.2
+ERR_SPKR_BLW,Mobile,Audio,Speaker Voice Coil Blown,1,145.0,1.2
+ERR_WIFI_AN_V001,Mobile,Networking,Antenna Signal Attenuation (Variant),1,169.09,1.6
+ERR_WIFI_AN_V002,Mobile,Networking,Antenna Signal Attenuation (Variant),1,191.42,1.6
+ERR_DISP_BRK_V003,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,708.05,2.2
+ERR_CPU_TEM_V004,Mobile,Processor,Thermal Throttling Event (Variant),3,221.95,1.1
+ERR_PWR_IC_V005,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,328.63,1.3
+ERR_WIFI_AN_V006,Mobile,Networking,Antenna Signal Attenuation (Variant),1,233.06,1.6
+ERR_USB_C_V007,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,87.29,0.8
+ERR_DISP_BRK_V008,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,691.87,2.4
+ERR_BATT_03_V009,Mobile,Battery,Degraded Capacity Below 70% (Variant),2,215.43,1.4
+ERR_DISP_BRK_V010,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,747.94,2.8
+ERR_BATT_01_V011,Mobile,Battery,Lithium Ion Cell Swelling (Variant),3,267.05,1.7
+ERR_WIFI_AN_V012,Mobile,Networking,Antenna Signal Attenuation (Variant),1,166.67,1.9
+ERR_PWR_IC_V013,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,406.92,1.4
+ERR_PWR_IC_V014,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,383.35,1.5
+ERR_DISP_BRK_V015,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,571.04,2.8
+ERR_BATT_01_V016,Mobile,Battery,Lithium Ion Cell Swelling (Variant),3,219.22,2.1
+ERR_DISP_01_V017,Mobile,Display,Organic LED Flicker Pro-Grade (Variant),1,398.8,1.4
+ERR_PWR_IC_V018,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,314.92,1.6
+ERR_USB_C_V019,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,106.53,0.8
+ERR_WIFI_AN_V020,Mobile,Networking,Antenna Signal Attenuation (Variant),1,166.23,1.8
+ERR_PWR_IC_V021,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,364.35,1.7
+ERR_PWR_IC_V022,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,341.65,1.5
+ERR_SPKR_BLW_V023,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,138.65,1.3
+ERR_CPU_TEM_V024,Mobile,Processor,Thermal Throttling Event (Variant),3,228.32,1.2
+ERR_DISP_01_V025,Mobile,Display,Organic LED Flicker Pro-Grade (Variant),1,353.14,1.1
+ERR_FACE_ID_V026,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,546.52,2.3
+ERR_CPU_TEM_V027,Mobile,Processor,Thermal Throttling Event (Variant),3,252.74,1.2
+ERR_WIFI_AN_V028,Mobile,Networking,Antenna Signal Attenuation (Variant),1,195.31,1.6
+ERR_USB_C_V029,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,92.65,0.9
+ERR_BATT_01_V030,Mobile,Battery,Lithium Ion Cell Swelling (Variant),3,277.41,2.0
+ERR_CAM_MOD_V031,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,274.86,1.8
+ERR_SPKR_BLW_V032,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,152.42,1.0
+ERR_WIFI_AN_V033,Mobile,Networking,Antenna Signal Attenuation (Variant),1,197.55,1.8
+ERR_DISP_01_V034,Mobile,Display,Organic LED Flicker Pro-Grade (Variant),1,418.66,1.2
+ERR_USB_C_V035,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,107.23,0.7
+ERR_PWR_IC_V036,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,374.23,1.6
+ERR_CPU_TEM_V037,Mobile,Processor,Thermal Throttling Event (Variant),3,221.3,1.0
+ERR_PWR_IC_V038,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,311.73,1.7
+ERR_WIFI_AN_V039,Mobile,Networking,Antenna Signal Attenuation (Variant),1,227.75,1.9
+ERR_WIFI_AN_V040,Mobile,Networking,Antenna Signal Attenuation (Variant),1,222.45,1.7
+ERR_PWR_IC_V041,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,364.56,1.6
+ERR_SPKR_BLW_V042,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,150.58,1.1
+ERR_SPKR_BLW_V043,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,117.61,1.3
+ERR_CPU_TEM_V044,Mobile,Processor,Thermal Throttling Event (Variant),3,231.42,1.3
+ERR_USB_C_V045,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,79.63,0.8
+ERR_CAM_MOD_V046,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,284.66,1.8
+ERR_PWR_IC_V047,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,383.88,1.6
+ERR_FACE_ID_V048,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,473.47,2.4
+ERR_WIFI_AN_V049,Mobile,Networking,Antenna Signal Attenuation (Variant),1,214.65,1.8
+ERR_USB_C_V050,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,109.71,0.9
+ERR_BATT_03_V051,Mobile,Battery,Degraded Capacity Below 70% (Variant),2,260.08,1.5
+ERR_SPKR_BLW_V052,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,139.2,1.1
+ERR_PWR_IC_V053,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,428.2,1.7
+ERR_DISP_01_V054,Mobile,Display,Organic LED Flicker Pro-Grade (Variant),1,343.01,1.2
+ERR_SPKR_BLW_V055,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,151.76,1.1
+ERR_USB_C_V056,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,77.34,0.8
+ERR_WIFI_AN_V057,Mobile,Networking,Antenna Signal Attenuation (Variant),1,172.35,1.6
+ERR_CPU_TEM_V058,Mobile,Processor,Thermal Throttling Event (Variant),3,208.27,1.0
+ERR_DISP_BRK_V059,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,596.0,2.2
+ERR_CAM_MOD_V060,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,294.47,2.0
+ERR_SPKR_BLW_V061,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,162.09,1.0
+ERR_BATT_01_V062,Mobile,Battery,Lithium Ion Cell Swelling (Variant),3,220.57,2.0
+ERR_BATT_03_V063,Mobile,Battery,Degraded Capacity Below 70% (Variant),2,210.67,1.6
+ERR_BATT_01_V064,Mobile,Battery,Lithium Ion Cell Swelling (Variant),3,233.9,2.1
+ERR_USB_C_V065,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,108.77,0.9
+ERR_PWR_IC_V066,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,388.1,1.3
+ERR_CAM_MOD_V067,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,361.03,2.0
+ERR_WIFI_AN_V068,Mobile,Networking,Antenna Signal Attenuation (Variant),1,222.86,1.8
+ERR_DISP_01_V069,Mobile,Display,Organic LED Flicker Pro-Grade (Variant),1,422.14,1.1
+ERR_BATT_03_V070,Mobile,Battery,Degraded Capacity Below 70% (Variant),2,209.53,1.5
+ERR_USB_C_V071,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,91.61,0.9
+ERR_PWR_IC_V072,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,327.83,1.4
+ERR_WIFI_AN_V073,Mobile,Networking,Antenna Signal Attenuation (Variant),1,164.63,1.7
+ERR_FACE_ID_V074,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,425.56,2.1
+ERR_USB_C_V075,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,107.34,0.9
+ERR_CPU_TEM_V076,Mobile,Processor,Thermal Throttling Event (Variant),3,226.7,1.2
+ERR_USB_C_V077,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,76.44,0.8
+ERR_PWR_IC_V078,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,322.09,1.5
+ERR_SPKR_BLW_V079,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,144.31,1.1
+ERR_CAM_MOD_V080,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,346.64,1.8
+ERR_FACE_ID_V081,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,492.32,2.5
+ERR_FACE_ID_V082,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,545.72,2.4
+ERR_DISP_01_V083,Mobile,Display,Organic LED Flicker Pro-Grade (Variant),1,371.41,1.2
+ERR_FACE_ID_V084,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,521.23,2.3
+ERR_BATT_03_V085,Mobile,Battery,Degraded Capacity Below 70% (Variant),2,232.82,1.6
+ERR_SPKR_BLW_V086,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,143.61,1.1
+ERR_FACE_ID_V087,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,430.8,2.1
+ERR_FACE_ID_V088,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,388.09,2.3
+ERR_WIFI_AN_V089,Mobile,Networking,Antenna Signal Attenuation (Variant),1,214.1,1.8
+ERR_FACE_ID_V090,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,419.0,2.3
+ERR_WIFI_AN_V091,Mobile,Networking,Antenna Signal Attenuation (Variant),1,196.41,1.8
+ERR_WIFI_AN_V092,Mobile,Networking,Antenna Signal Attenuation (Variant),1,202.93,2.0
+ERR_BATT_03_V093,Mobile,Battery,Degraded Capacity Below 70% (Variant),2,214.16,1.3
+ERR_DISP_BRK_V094,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,574.06,2.8
+ERR_USB_C_V095,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,91.59,0.9
+ERR_USB_C_V096,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,109.92,0.8
+ERR_PWR_IC_V097,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,319.68,1.3
+ERR_FACE_ID_V098,Mobile,Biometrics,TrueDepth Camera Misalignment (Variant),2,398.37,2.4
+ERR_CPU_TEM_V099,Mobile,Processor,Thermal Throttling Event (Variant),3,210.64,1.3
+ERR_CAM_MOD_V100,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,349.58,1.8
+ERR_PWR_IC_V101,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,398.38,1.5
+ERR_BATT_01_V102,Mobile,Battery,Lithium Ion Cell Swelling (Variant),3,215.84,1.7
+ERR_DISP_BRK_V103,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,755.71,2.6
+ERR_DISP_BRK_V104,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,626.73,2.8
+ERR_DISP_BRK_V105,Mobile,Display,Shattered Display Assembly LTPO OLED (Variant),2,600.21,2.3
+ERR_SPKR_BLW_V106,Mobile,Audio,Speaker Voice Coil Blown (Variant),1,172.24,1.2
+ERR_CPU_TEM_V107,Mobile,Processor,Thermal Throttling Event (Variant),3,284.82,1.0
+ERR_CAM_MOD_V108,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,378.36,1.7
+ERR_USB_C_V109,Mobile,Charging,USB-C Port Debris Pin Damage (Variant),1,106.25,0.7
+ERR_CAM_MOD_V110,Mobile,Camera,Optical Image Stabilizer Failure (Variant),2,263.62,1.5
+ERR_WIFI_AN_V111,Mobile,Networking,Antenna Signal Attenuation (Variant),1,169.36,1.6
+ERR_PWR_IC_V112,Mobile,Power Management,Charge Controller Short Circuit (Variant),3,380.08,1.5
+ERR_DISP_01_V113,Mobile,Display,Organic LED Flicker Pro-Grade (Variant),1,325.37,1.1
+ERR_CPU_TEM_V114,Mobile,Processor,Thermal Throttling Event (Variant),3,259.81,1.2
+E1,Appliance,Water System,Inlet Valve Obstruction,2,145.0,3.5
+E2,Appliance,Drainage,Sump Pump Timeout,2,350.0,4.2
+E4,Appliance,Motor,Drum Induction Error,3,585.0,4.8
+E6,Appliance,Heating,Thermal Fuse Blown,3,125.0,2.2
+ERR_APP_CORE,Appliance,Heating,Severe Component Corrosion,3,450.0,5.5
+F1,Appliance,Latch,Door Interlock Failure,2,220.0,2.5
+F2,Appliance,Fan,Convection Blower Jammed,1,125.0,2.5
+E7,Appliance,Control,Control Board Memory Fault,3,380.0,4.0
+E9,Appliance,Sensor,NTC Thermistor Open Circuit,2,55.0,1.5
+ERR_ICE_MKR,Appliance,Ice System,Ice Maker Auger Motor Seized,2,195.0,2.8
+ERR_DISP_APP,Appliance,Display,Touchscreen Panel Fault,1,165.0,2.0
+ERR_CMPRS,Appliance,Refrigeration,Compressor Start Relay Failure,3,425.0,5.0
+ERR_SEAL_LK,Appliance,Seals,Door Gasket Seal Degradation,1,85.0,1.5
+ERR_DISP_APP_V001,Appliance,Display,Touchscreen Panel Fault (Variant),1,194.44,2.0
+ERR_CMPRS_V002,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,401.57,4.7
+ERR_SEAL_LK_V003,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,101.52,1.5
+E7_V004,Appliance,Control,Control Board Memory Fault (Variant),3,441.57,4.2
+ERR_CMPRS_V005,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,408.82,5.4
+ERR_ICE_MKR_V006,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,226.33,3.1
+ERR_DISP_APP_V007,Appliance,Display,Touchscreen Panel Fault (Variant),1,155.89,2.2
+ERR_ICE_MKR_V008,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,185.72,3.1
+ERR_SEAL_LK_V009,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,78.14,1.7
+E9_V010,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,46.34,1.4
+E7_V011,Appliance,Control,Control Board Memory Fault (Variant),3,420.35,3.4
+ERR_SEAL_LK_V012,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,79.47,1.6
+ERR_ICE_MKR_V013,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,189.44,2.4
+E2_V014,Appliance,Drainage,Sump Pump Timeout (Variant),2,378.46,3.7
+ERR_SEAL_LK_V015,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,77.05,1.6
+ERR_ICE_MKR_V016,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,159.87,2.4
+E7_V017,Appliance,Control,Control Board Memory Fault (Variant),3,454.5,4.4
+ERR_DISP_APP_V018,Appliance,Display,Touchscreen Panel Fault (Variant),1,143.15,1.8
+E9_V019,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,59.26,1.5
+ERR_CMPRS_V020,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,467.68,5.4
+E9_V021,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,45.0,1.7
+E2_V022,Appliance,Drainage,Sump Pump Timeout (Variant),2,291.24,4.7
+F1_V023,Appliance,Latch,Door Interlock Failure (Variant),2,223.92,2.7
+E6_V024,Appliance,Heating,Thermal Fuse Blown (Variant),3,100.03,2.3
+ERR_APP_CORE_V025,Appliance,Heating,Severe Component Corrosion (Variant),3,455.88,5.4
+ERR_APP_CORE_V026,Appliance,Heating,Severe Component Corrosion (Variant),3,498.05,5.9
+E4_V027,Appliance,Motor,Drum Induction Error (Variant),3,517.06,5.5
+E1_V028,Appliance,Water System,Inlet Valve Obstruction (Variant),2,151.24,3.1
+E9_V029,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,58.91,1.3
+ERR_APP_CORE_V030,Appliance,Heating,Severe Component Corrosion (Variant),3,401.99,5.2
+F1_V031,Appliance,Latch,Door Interlock Failure (Variant),2,263.4,2.3
+ERR_DISP_APP_V032,Appliance,Display,Touchscreen Panel Fault (Variant),1,143.9,2.2
+E4_V033,Appliance,Motor,Drum Induction Error (Variant),3,550.89,4.1
+ERR_DISP_APP_V034,Appliance,Display,Touchscreen Panel Fault (Variant),1,161.51,1.8
+ERR_APP_CORE_V035,Appliance,Heating,Severe Component Corrosion (Variant),3,522.06,5.7
+ERR_SEAL_LK_V036,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,99.74,1.3
+E7_V037,Appliance,Control,Control Board Memory Fault (Variant),3,413.0,4.5
+E4_V038,Appliance,Motor,Drum Induction Error (Variant),3,590.77,4.6
+F2_V039,Appliance,Fan,Convection Blower Jammed (Variant),1,135.65,2.5
+ERR_ICE_MKR_V040,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,227.66,3.0
+F1_V041,Appliance,Latch,Door Interlock Failure (Variant),2,254.88,2.3
+F1_V042,Appliance,Latch,Door Interlock Failure (Variant),2,181.06,2.7
+F1_V043,Appliance,Latch,Door Interlock Failure (Variant),2,242.3,2.3
+E1_V044,Appliance,Water System,Inlet Valve Obstruction (Variant),2,128.46,3.1
+F2_V045,Appliance,Fan,Convection Blower Jammed (Variant),1,109.87,2.8
+E1_V046,Appliance,Water System,Inlet Valve Obstruction (Variant),2,134.67,3.1
+E2_V047,Appliance,Drainage,Sump Pump Timeout (Variant),2,346.91,4.1
+E9_V048,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,47.89,1.6
+ERR_ICE_MKR_V049,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,177.83,3.1
+ERR_CMPRS_V050,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,372.27,5.3
+E1_V051,Appliance,Water System,Inlet Valve Obstruction (Variant),2,147.91,3.6
+E2_V052,Appliance,Drainage,Sump Pump Timeout (Variant),2,375.48,3.6
+ERR_ICE_MKR_V053,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,213.61,2.4
+E2_V054,Appliance,Drainage,Sump Pump Timeout (Variant),2,409.51,4.7
+E1_V055,Appliance,Water System,Inlet Valve Obstruction (Variant),2,119.62,4.0
+ERR_APP_CORE_V056,Appliance,Heating,Severe Component Corrosion (Variant),3,528.17,4.9
+ERR_CMPRS_V057,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,470.14,4.7
+ERR_CMPRS_V058,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,440.58,5.0
+E1_V059,Appliance,Water System,Inlet Valve Obstruction (Variant),2,125.67,3.8
+E4_V060,Appliance,Motor,Drum Induction Error (Variant),3,515.69,5.2
+ERR_DISP_APP_V061,Appliance,Display,Touchscreen Panel Fault (Variant),1,136.17,1.8
+ERR_DISP_APP_V062,Appliance,Display,Touchscreen Panel Fault (Variant),1,160.81,1.8
+E7_V063,Appliance,Control,Control Board Memory Fault (Variant),3,437.85,4.0
+F1_V064,Appliance,Latch,Door Interlock Failure (Variant),2,196.93,2.6
+E2_V065,Appliance,Drainage,Sump Pump Timeout (Variant),2,291.21,4.1
+E9_V066,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,56.23,1.4
+F1_V067,Appliance,Latch,Door Interlock Failure (Variant),2,231.42,2.5
+E6_V068,Appliance,Heating,Thermal Fuse Blown (Variant),3,145.76,2.4
+ERR_ICE_MKR_V069,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,189.0,2.5
+F2_V070,Appliance,Fan,Convection Blower Jammed (Variant),1,108.16,2.8
+ERR_SEAL_LK_V071,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,71.95,1.4
+E1_V072,Appliance,Water System,Inlet Valve Obstruction (Variant),2,161.03,3.2
+E4_V073,Appliance,Motor,Drum Induction Error (Variant),3,557.84,4.3
+ERR_CMPRS_V074,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,378.53,4.6
+E9_V075,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,46.91,1.7
+E1_V076,Appliance,Water System,Inlet Valve Obstruction (Variant),2,173.73,3.1
+E6_V077,Appliance,Heating,Thermal Fuse Blown (Variant),3,136.22,2.5
+E4_V078,Appliance,Motor,Drum Induction Error (Variant),3,535.54,5.2
+ERR_APP_CORE_V079,Appliance,Heating,Severe Component Corrosion (Variant),3,438.13,5.5
+ERR_SEAL_LK_V080,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,80.86,1.7
+ERR_DISP_APP_V081,Appliance,Display,Touchscreen Panel Fault (Variant),1,144.0,1.7
+ERR_DISP_APP_V082,Appliance,Display,Touchscreen Panel Fault (Variant),1,143.69,1.7
+ERR_ICE_MKR_V083,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,221.45,2.6
+F1_V084,Appliance,Latch,Door Interlock Failure (Variant),2,249.59,2.6
+E6_V085,Appliance,Heating,Thermal Fuse Blown (Variant),3,120.09,2.5
+E2_V086,Appliance,Drainage,Sump Pump Timeout (Variant),2,352.91,4.1
+E4_V087,Appliance,Motor,Drum Induction Error (Variant),3,535.69,4.6
+ERR_SEAL_LK_V088,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,85.69,1.3
+E1_V089,Appliance,Water System,Inlet Valve Obstruction (Variant),2,171.02,4.0
+ERR_APP_CORE_V090,Appliance,Heating,Severe Component Corrosion (Variant),3,444.89,4.7
+ERR_APP_CORE_V091,Appliance,Heating,Severe Component Corrosion (Variant),3,479.23,5.7
+ERR_DISP_APP_V092,Appliance,Display,Touchscreen Panel Fault (Variant),1,167.71,1.8
+ERR_CMPRS_V093,Appliance,Refrigeration,Compressor Start Relay Failure (Variant),3,366.06,5.5
+ERR_SEAL_LK_V094,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,95.42,1.7
+ERR_SEAL_LK_V095,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,91.47,1.7
+E1_V096,Appliance,Water System,Inlet Valve Obstruction (Variant),2,158.14,3.5
+F1_V097,Appliance,Latch,Door Interlock Failure (Variant),2,191.02,2.5
+F2_V098,Appliance,Fan,Convection Blower Jammed (Variant),1,129.05,2.1
+E9_V099,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,54.47,1.7
+ERR_ICE_MKR_V100,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,170.65,3.0
+E6_V101,Appliance,Heating,Thermal Fuse Blown (Variant),3,130.36,2.2
+E2_V102,Appliance,Drainage,Sump Pump Timeout (Variant),2,419.95,3.7
+E7_V103,Appliance,Control,Control Board Memory Fault (Variant),3,350.54,3.9
+E9_V104,Appliance,Sensor,NTC Thermistor Open Circuit (Variant),2,44.25,1.6
+ERR_DISP_APP_V105,Appliance,Display,Touchscreen Panel Fault (Variant),1,140.94,1.8
+F1_V106,Appliance,Latch,Door Interlock Failure (Variant),2,193.17,2.7
+ERR_ICE_MKR_V107,Appliance,Ice System,Ice Maker Auger Motor Seized (Variant),2,227.89,2.9
+ERR_SEAL_LK_V108,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,92.82,1.6
+E4_V109,Appliance,Motor,Drum Induction Error (Variant),3,670.54,5.3
+ERR_SEAL_LK_V110,Appliance,Seals,Door Gasket Seal Degradation (Variant),1,94.84,1.6
+E4_V111,Appliance,Motor,Drum Induction Error (Variant),3,595.52,4.5
+ERR_APP_CORE_V112,Appliance,Heating,Severe Component Corrosion (Variant),3,453.69,5.5
+VIB_100,Industrial,Drive Train,Shaft Dynamic Misalignment,3,6850.0,24.5
+PF_01,Industrial,Power Train,Phase Sequence Imbalance,3,7200.0,28.3
+LV_02,Industrial,Pneumatics,Pressure Line Blockage,3,4525.0,15.2
+PR_200,Industrial,Hydraulics,Pump Cavitation Warning,2,8500.0,18.6
+ERR_IND_HYD_L,Industrial,Hydraulics,Hydraulic Line Rupture or Wear,3,4150.0,14.5
+VFD_01,Industrial,VFD,Inverter Arc Fault,3,12240.0,32.1
+HMI_COM,Industrial,Control,Interface Bus Timeout,1,4138.0,15.7
+ERR_IND_BEAR,Industrial,Bearings,Rolling Element Bearing Failure,3,2850.0,18.0
+ERR_IND_SEAL,Industrial,Seals,High-Pressure Seal Extrusion,2,1250.0,8.5
+ERR_IND_COOL,Industrial,Cooling,Coolant Flow Restriction Heavy,3,1850.0,10.0
+ERR_IND_OVER,Industrial,Electrical,Motor Overload Trip,3,3200.0,12.0
+ERR_IND_VIBX,Industrial,Vibration,Excessive Vibration X-Axis,2,950.0,6.0
+ERR_IND_PLC,Industrial,Control,PLC Firmware Fault,2,2450.0,8.0
+ERR_IND_SEN,Industrial,Sensor,Proximity Sensor Drift,1,320.0,3.0
+ERR_IND_GEAR,Industrial,Gearbox,Gearbox Oil Contamination,3,3850.0,16.0
+ERR_IND_BEAR_V001,Industrial,Bearings,Rolling Element Bearing Failure (Variant),3,3111.92,20.6
+ERR_IND_PLC_V002,Industrial,Control,PLC Firmware Fault (Variant),2,1975.82,8.8
+ERR_IND_PLC_V003,Industrial,Control,PLC Firmware Fault (Variant),2,2794.04,7.6
+ERR_IND_COOL_V004,Industrial,Cooling,Coolant Flow Restriction Heavy (Variant),3,2212.64,11.2
+ERR_IND_GEAR_V005,Industrial,Gearbox,Gearbox Oil Contamination (Variant),3,4555.04,14.1
+HMI_COM_V006,Industrial,Control,Interface Bus Timeout (Variant),1,3870.47,17.0
+HMI_COM_V007,Industrial,Control,Interface Bus Timeout (Variant),1,4663.27,17.1
+HMI_COM_V008,Industrial,Control,Interface Bus Timeout (Variant),1,4038.55,15.5
+ERR_IND_VIBX_V009,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,1089.47,6.7
+ERR_IND_VIBX_V010,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,859.46,6.3
+ERR_IND_VIBX_V011,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,902.43,6.6
+PR_200_V012,Industrial,Hydraulics,Pump Cavitation Warning (Variant),2,7185.82,16.9
+ERR_IND_SEAL_V013,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1368.32,8.0
+VFD_01_V014,Industrial,VFD,Inverter Arc Fault (Variant),3,13422.07,30.6
+ERR_IND_VIBX_V015,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,838.43,6.9
+VFD_01_V016,Industrial,VFD,Inverter Arc Fault (Variant),3,14499.56,30.8
+ERR_IND_SEAL_V017,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1252.36,7.8
+ERR_IND_HYD_L_V018,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,4448.08,15.0
+ERR_IND_SEN_V019,Industrial,Sensor,Proximity Sensor Drift (Variant),1,318.03,2.9
+ERR_IND_PLC_V020,Industrial,Control,PLC Firmware Fault (Variant),2,2407.04,8.6
+ERR_IND_SEAL_V021,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1156.94,8.5
+ERR_IND_HYD_L_V022,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,3958.93,15.8
+ERR_IND_BEAR_V023,Industrial,Bearings,Rolling Element Bearing Failure (Variant),3,2641.33,16.4
+ERR_IND_OVER_V024,Industrial,Electrical,Motor Overload Trip (Variant),3,3420.57,10.6
+PR_200_V025,Industrial,Hydraulics,Pump Cavitation Warning (Variant),2,9765.53,20.1
+ERR_IND_GEAR_V026,Industrial,Gearbox,Gearbox Oil Contamination (Variant),3,3568.5,16.9
+ERR_IND_PLC_V027,Industrial,Control,PLC Firmware Fault (Variant),2,2333.18,7.8
+ERR_IND_SEN_V028,Industrial,Sensor,Proximity Sensor Drift (Variant),1,366.21,3.2
+ERR_IND_OVER_V029,Industrial,Electrical,Motor Overload Trip (Variant),3,2563.02,13.4
+ERR_IND_VIBX_V030,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,854.2,6.2
+ERR_IND_GEAR_V031,Industrial,Gearbox,Gearbox Oil Contamination (Variant),3,3992.34,15.1
+ERR_IND_OVER_V032,Industrial,Electrical,Motor Overload Trip (Variant),3,2781.87,13.7
+PR_200_V033,Industrial,Hydraulics,Pump Cavitation Warning (Variant),2,10195.1,16.7
+HMI_COM_V034,Industrial,Control,Interface Bus Timeout (Variant),1,4711.01,15.2
+ERR_IND_HYD_L_V035,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,4266.34,14.5
+VIB_100_V036,Industrial,Drive Train,Shaft Dynamic Misalignment (Variant),3,6462.16,25.1
+PR_200_V037,Industrial,Hydraulics,Pump Cavitation Warning (Variant),2,7804.6,18.1
+ERR_IND_PLC_V038,Industrial,Control,PLC Firmware Fault (Variant),2,2270.48,8.1
+ERR_IND_OVER_V039,Industrial,Electrical,Motor Overload Trip (Variant),3,2725.58,10.2
+HMI_COM_V040,Industrial,Control,Interface Bus Timeout (Variant),1,3416.24,17.2
+VFD_01_V041,Industrial,VFD,Inverter Arc Fault (Variant),3,13972.59,27.4
+ERR_IND_VIBX_V042,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,808.2,6.8
+HMI_COM_V043,Industrial,Control,Interface Bus Timeout (Variant),1,4679.55,17.5
+ERR_IND_SEAL_V044,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1069.59,7.3
+ERR_IND_OVER_V045,Industrial,Electrical,Motor Overload Trip (Variant),3,2689.34,11.7
+ERR_IND_VIBX_V046,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,1015.73,6.3
+ERR_IND_SEAL_V047,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1440.78,8.7
+ERR_IND_OVER_V048,Industrial,Electrical,Motor Overload Trip (Variant),3,3324.66,10.9
+ERR_IND_BEAR_V049,Industrial,Bearings,Rolling Element Bearing Failure (Variant),3,3351.4,16.5
+VFD_01_V050,Industrial,VFD,Inverter Arc Fault (Variant),3,12045.57,35.5
+PF_01_V051,Industrial,Power Train,Phase Sequence Imbalance (Variant),3,7161.24,30.4
+ERR_IND_SEN_V052,Industrial,Sensor,Proximity Sensor Drift (Variant),1,287.88,2.8
+VFD_01_V053,Industrial,VFD,Inverter Arc Fault (Variant),3,12977.22,31.0
+ERR_IND_GEAR_V054,Industrial,Gearbox,Gearbox Oil Contamination (Variant),3,3427.47,17.0
+ERR_IND_SEAL_V055,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1012.08,9.0
+PF_01_V056,Industrial,Power Train,Phase Sequence Imbalance (Variant),3,8361.78,26.1
+HMI_COM_V057,Industrial,Control,Interface Bus Timeout (Variant),1,4699.58,16.4
+PR_200_V058,Industrial,Hydraulics,Pump Cavitation Warning (Variant),2,9606.45,17.4
+LV_02_V059,Industrial,Pneumatics,Pressure Line Blockage (Variant),3,5126.7,16.8
+ERR_IND_OVER_V060,Industrial,Electrical,Motor Overload Trip (Variant),3,2854.45,12.4
+ERR_IND_SEAL_V061,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1322.9,8.6
+ERR_IND_VIBX_V062,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,825.56,6.3
+VFD_01_V063,Industrial,VFD,Inverter Arc Fault (Variant),3,10125.72,31.8
+VFD_01_V064,Industrial,VFD,Inverter Arc Fault (Variant),3,11933.31,34.5
+ERR_IND_SEAL_V065,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1093.72,8.4
+ERR_IND_HYD_L_V066,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,3765.06,13.9
+VFD_01_V067,Industrial,VFD,Inverter Arc Fault (Variant),3,11291.11,29.6
+ERR_IND_HYD_L_V068,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,4276.86,14.6
+LV_02_V069,Industrial,Pneumatics,Pressure Line Blockage (Variant),3,4107.95,16.1
+ERR_IND_GEAR_V070,Industrial,Gearbox,Gearbox Oil Contamination (Variant),3,3658.67,18.0
+LV_02_V071,Industrial,Pneumatics,Pressure Line Blockage (Variant),3,4771.99,15.5
+PR_200_V072,Industrial,Hydraulics,Pump Cavitation Warning (Variant),2,7521.92,17.4
+ERR_IND_VIBX_V073,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,872.43,6.8
+ERR_IND_SEAL_V074,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1107.9,8.3
+ERR_IND_VIBX_V075,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,1086.61,5.9
+PR_200_V076,Industrial,Hydraulics,Pump Cavitation Warning (Variant),2,7924.9,17.1
+VIB_100_V077,Industrial,Drive Train,Shaft Dynamic Misalignment (Variant),3,8202.05,23.5
+PF_01_V078,Industrial,Power Train,Phase Sequence Imbalance (Variant),3,7403.04,29.8
+ERR_IND_BEAR_V079,Industrial,Bearings,Rolling Element Bearing Failure (Variant),3,3239.49,18.6
+ERR_IND_OVER_V080,Industrial,Electrical,Motor Overload Trip (Variant),3,3015.66,11.2
+ERR_IND_HYD_L_V081,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,4412.54,15.7
+ERR_IND_OVER_V082,Industrial,Electrical,Motor Overload Trip (Variant),3,3767.92,12.9
+ERR_IND_SEN_V083,Industrial,Sensor,Proximity Sensor Drift (Variant),1,358.05,2.8
+ERR_IND_PLC_V084,Industrial,Control,PLC Firmware Fault (Variant),2,2401.36,8.5
+ERR_IND_HYD_L_V085,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,4478.11,13.4
+ERR_IND_BEAR_V086,Industrial,Bearings,Rolling Element Bearing Failure (Variant),3,2608.32,16.0
+ERR_IND_BEAR_V087,Industrial,Bearings,Rolling Element Bearing Failure (Variant),3,2735.77,16.0
+ERR_IND_SEAL_V088,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1498.1,9.1
+VIB_100_V089,Industrial,Drive Train,Shaft Dynamic Misalignment (Variant),3,6071.24,23.7
+PF_01_V090,Industrial,Power Train,Phase Sequence Imbalance (Variant),3,6930.5,31.3
+ERR_IND_HYD_L_V091,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,3888.01,14.3
+ERR_IND_HYD_L_V092,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,4936.77,12.9
+HMI_COM_V093,Industrial,Control,Interface Bus Timeout (Variant),1,3911.82,18.0
+ERR_IND_SEN_V094,Industrial,Sensor,Proximity Sensor Drift (Variant),1,345.75,2.7
+VIB_100_V095,Industrial,Drive Train,Shaft Dynamic Misalignment (Variant),3,6844.67,23.8
+VIB_100_V096,Industrial,Drive Train,Shaft Dynamic Misalignment (Variant),3,5784.51,26.1
+ERR_IND_SEN_V097,Industrial,Sensor,Proximity Sensor Drift (Variant),1,280.54,3.0
+VFD_01_V098,Industrial,VFD,Inverter Arc Fault (Variant),3,13780.78,32.1
+ERR_IND_VIBX_V099,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,969.38,5.2
+ERR_IND_HYD_L_V100,Industrial,Hydraulics,Hydraulic Line Rupture or Wear (Variant),3,3362.12,16.5
+ERR_IND_PLC_V101,Industrial,Control,PLC Firmware Fault (Variant),2,2680.75,8.5
+ERR_IND_VIBX_V102,Industrial,Vibration,Excessive Vibration X-Axis (Variant),2,1109.25,5.1
+ERR_IND_PLC_V103,Industrial,Control,PLC Firmware Fault (Variant),2,2353.14,7.1
+PF_01_V104,Industrial,Power Train,Phase Sequence Imbalance (Variant),3,5961.83,29.8
+ERR_IND_COOL_V105,Industrial,Cooling,Coolant Flow Restriction Heavy (Variant),3,1533.06,10.3
+ERR_IND_GEAR_V106,Industrial,Gearbox,Gearbox Oil Contamination (Variant),3,4434.07,17.2
+HMI_COM_V107,Industrial,Control,Interface Bus Timeout (Variant),1,4911.22,15.5
+LV_02_V108,Industrial,Pneumatics,Pressure Line Blockage (Variant),3,3766.66,13.3
+ERR_IND_SEAL_V109,Industrial,Seals,High-Pressure Seal Extrusion (Variant),2,1259.81,8.2
+VIB_100_V110,Industrial,Drive Train,Shaft Dynamic Misalignment (Variant),3,6010.73,22.1
