@@ -34,4 +34,3 @@ fix_nouns.py
 *.docx
 
 # Streamlit
-.streamlit/config.toml
