@@ -1,5 +1,6 @@
 # Product Support & Service Intelligence Platform
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lmudu2/ProductSupportPlatform/blob/main/Product_Support_Intelligence_Demo.ipynb)
 A diagnostic decision engine and procurement orchestrator for industrial, automotive, and consumer hardware. It uses a combination of telemetry anomaly detection, computer vision audits, and LLM-driven strategy to automate "Repair vs. Replace" decisions.
 
 ## Quick Start
